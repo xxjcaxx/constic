@@ -20,12 +20,11 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Upload build folder via SFTP
-        uses: appleboy/sftp-action@master
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          host: ${{ secrets.SFTP_HOST }}
+          server: ${{ secrets.SFTP_HOST }}
           username: ${{ secrets.SFTP_USER }}
           password: ${{ secrets.SFTP_PASS }}
-          port: 21
-          source: "build/*"
-          target: "/public_html/materiales"
+          local-dir: build
+          server-dir: /public_html/materiales
