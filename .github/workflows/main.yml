@@ -28,4 +28,4 @@ jobs:
           password: ${{ secrets.SFTP_PASS }}
           port: 22
           source: "build/*"
-          target: "/materiales"
+          target: "/public_html/materiales"
