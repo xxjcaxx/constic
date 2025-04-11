@@ -49,21 +49,7 @@ const config = {
             'https://github.com/xxjcaxx/constic',
         },
         blog: false,
-       /* blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },*/
+      
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -75,12 +61,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/constic-social-card.png',
+      image: 'img/logocompleto.png',
       navbar: {
         title: 'Constic',
         logo: {
           alt: 'Constic',
-          src: 'img/logo.svg',
+          src: 'img/CONSTIClogo.svg',
         },
         items: [
           {
