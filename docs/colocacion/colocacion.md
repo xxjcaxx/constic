@@ -1,9 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# COLOCACIÓN DE MATERIALES PÉTREOS EN LA CONSTRUCCIÓN
-
+# Colocación de materiales pétreo en la construcción
 ## 1. Introducción
 
 Desde los albores de la civilización, la piedra ha sido un pilar fundamental en la construcción de espacios habitables,
