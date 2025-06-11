@@ -1,8 +1,12 @@
-# MANTENIMIENTO DE LA PIEDRA NATURAL EN LA CONSTRUCCIÓN
+---
+sidebar_position: 5
+---
 
-### 1. Introducción
+# 3. MANTENIMIENTO DE LA PIEDRA NATURAL EN LA CONSTRUCCIÓN
 
-####  1.1. La piedra natural como material duradero.
+## 1. Introducción
+
+###  1.1. La piedra natural como material duradero.
 
 Desde tiempos inmemoriales, la piedra natural ha sido sinónimo de solidez, permanencia y belleza. Utilizada en las
 estructuras más emblemáticas de la historia, desde templos y fortalezas hasta infraestructuras civiles y viviendas,
@@ -259,9 +263,7 @@ Surgen por defectos o fallos en el proceso o materiales de colocación.
     hinchazón), o una colocación con material de agarre no adecuado que no absorbe tensiones.
 - **Filtraciones de agua** : Entrada de agua a través de las juntas o fisuras hacia el interior del cerramiento. Suele
     deberse a un rejuntado deficiente, la degradación de los sellados elásticos, fisuras en las piezas, o un diseño
-    inadecuado que no facilita la evacuación del agua (sin goterones, pendientes incorrectas). El agua filtrada
-
-## puede causar daños internos, moho, humedades y promover otras patologías en la piedra.
+    inadecuado que no facilita la evacuación del agua (sin goterones, pendientes incorrectas). El agua filtrada puede causar daños internos, moho, humedades y promover otras patologías en la piedra.
 
 
 ### 5. Materiales y Productos para el Mantenimiento y Conservación
@@ -355,9 +357,7 @@ La elección de cualquier producto debe basarse en:
 - **Transpirabilidad** : En muchos casos, es crucial mantener la capacidad de la piedra para liberar humedad.
 - **Reversibilidad** (especialmente en patrimonio): Preferir tratamientos que puedan ser retirados en el futuro
     sin dañar la piedra original.
-- **Pruebas previas** : Siempre realizar ensayos en una pequeña zona discreta para verificar el resultado estético
-
-## y la ausencia de reacciones adversas antes de la aplicación general.
+- **Pruebas previas** : Siempre realizar ensayos en una pequeña zona discreta para verificar el resultado estético y la ausencia de reacciones adversas antes de la aplicación general.
 
 
 ### 6. Planificación y Ejecución de Intervenciones de Mantenimiento
