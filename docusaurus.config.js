@@ -93,13 +93,37 @@ const config = {
                 label: 'Materiales',
                 to: '/docs/intro',
               },
+              {
+                label: ' - Brecha de Género',
+                to: '/docs/brecha_genero',
+              },
+              {
+                label: ' - Extracción',
+                to: '/docs/tema_1',
+              },
+              {
+                label: ' - Transformación',
+                to: '/docs/tema_2',
+              },
+              {
+                label: ' - Mantenimiento',
+                to: '/docs/tema_3',
+              },
+              {
+                label: ' - Colocación',
+                to: '/docs/colocacion',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Redes sociales',
             items: [
               {
                 label: 'Instagram',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              },
+              {
+                label: 'Youtube',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
             ],
@@ -119,6 +143,12 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Constic.`,
+        logo: {
+          alt: 'Financiado por la Unión Europea',
+          src: 'img/logos.png', // Ruta relativa desde /static
+         // href: '/', // opcional: a dónde lleva el logo al hacer clic
+          width: 800, // puedes ajustar el tamaño
+        },
       },
       prism: {
         theme: prismThemes.github,
