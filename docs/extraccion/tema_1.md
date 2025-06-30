@@ -1,11 +1,14 @@
 # 1. EXTRACCIÓN DE PIEDRA NATURAL
 
 ## 1.1. INTRODUCCIÓN
-La piedra natural es unos de los materiales de construcción más antiguos y duraderos que se vienen utilizando en el mundo, siendo este fundamental en la construcción y en la obra civil. 
+La piedra natural es unos de los materiales de construcción más antiguos y duraderos que se vienen utilizando en el mundo, siendo este fundamental en la construcción y en la obra civil.
+
 El proceso que lleva esta materia prima para su obtención desde su origen geológico hasta su uso final es complejo y fascinante. 
+
 En este caso nos vamos a centrar en las **rocas ornamentales**. Con la denominación de rocas ornamentales se considera la utilización de la piedra natural formada principalmente por **granitos, mármoles y pizarras**, aunque también se pueden considerar **otras piedras para tal fin como las areniscas, las cuarcitas o los alabastros**, entre otras.
 
 El proceso de transformación de la piedra más extendido incluye la extracción del bloque, la elaboración de tableros y el corte de tableros para la elaboración de productos finales.
+
 Las técnicas de corte y extracción de la piedra natural de una cantera han evolucionado de forma significativa. Es un sector que se está adaptando a las nuevas demandas del mercado y a las innovaciones tecnológicas. Pasando de los métodos tradicionales con cuñas y mazos hasta la actual tecnología avanzada  de corte con sierras de disco o corte con hilo diamantado.
 
 Según las diferentes dimensiones del material obtenido en la cantera, se pueden clasificar en los siguientes tipos, siendo esto un punto muy importante no solo para su transporte y almacenamiento sino para la selección de maquinaria adecuada para cortarlos.
@@ -25,7 +28,7 @@ Para mejor ejemplificación, se adjunta la siguiente figura
     <img src="/materiales/img/Imaxes_tema_1/T01-I01.png"/>
 </p>
 	
- <p >Libro: UF0477: Recepción y almacenamiento del bloque de piedra natural. Amador Ordoñez Puime</p>
+ <p style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>Libro: UF0477: Recepción y almacenamiento del bloque de piedra natural. Amador Ordoñez Puime</p>
 
 
 ## 1.2. GEOLOGÍA 
