@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # 2.	TRANSFORMACIÓN DE LA PIEDRA NATURAL
 
 ## 2.1. INTRODUCCIÓN

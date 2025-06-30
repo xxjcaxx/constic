@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # 1. EXTRACCIÓN DE PIEDRA NATURAL
 
 ## 1.1. INTRODUCCIÓN

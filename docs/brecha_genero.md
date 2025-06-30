@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Investigación sobre la Brecha de Género en la Formación Profesional:
