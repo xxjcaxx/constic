@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# 1. EXTRACCIÓN DE PIEDRA NATURAL
+# 1. Extracción de piedra natural
 
 ## 1.1. INTRODUCCIÓN
 La piedra natural es unos de los materiales de construcción más antiguos y duraderos que se vienen utilizando en el mundo, siendo este fundamental en la construcción y en la obra civil.

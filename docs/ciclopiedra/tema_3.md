@@ -2,11 +2,11 @@
 sidebar_position: 5
 ---
 
-# 3. MANTENIMIENTO DE LA PIEDRA NATURAL EN LA CONSTRUCCIÓN
+# 4. Mantenimiento de la piedra natural en la construcción
 
-## 1. Introducción
+## 4.1. Introducción
 
-###  1.1. La piedra natural como material duradero.
+### 4.1.1. La piedra natural como material duradero.
 
 Desde tiempos inmemoriales, la piedra natural ha sido sinónimo de solidez, permanencia y belleza. Utilizada en las
 estructuras más emblemáticas de la historia, desde templos y fortalezas hasta infraestructuras civiles y viviendas,
@@ -17,7 +17,7 @@ esta aparente inmortalidad no exime a la piedra natural de los procesos de degra
 ambiental, el uso y la interacción con otros elementos. La creencia de que la piedra no necesita cuidado puede llevar
 a un deterioro prematuro que comprometa tanto su estética como su funcionalidad.
 
-####  1.2. Importancia del mantenimiento preventivo y correctivo.
+### 4.1.2. Importancia del mantenimiento preventivo y correctivo.
 
 A pesar de su inherente durabilidad, la piedra natural está constantemente expuesta a factores que pueden acelerar
 su deterioro: la contaminación atmosférica, los ciclos de helada y deshielo, la humedad, la acción biológica (líquenes,
@@ -30,7 +30,7 @@ mantenimiento correctivo, por su parte, se enfoca en reparar daños existentes, 
 funcionalidad o estética de superficies ya afectadas. Ambos enfoques son complementarios y cruciales para la
 correcta conservación.
 
-####  1.3. Objetivos del documento.
+### 4.1.3. Objetivos del documento.
 
 El presente documento tiene como objetivo principal servir de guía técnica para comprender y abordar el
 mantenimiento de la piedra natural en la construcción.
@@ -46,7 +46,7 @@ Busca proporcionar los conocimientos necesarios para:
 - Promover las buenas prácticas que extiendan la vida útil de las aplicaciones de piedra natural, preservando
     su valor y belleza a largo plazo.
 
-####  1.4. Ámbito de aplicación (edificación, urbanismo, restauración).
+### 4.1.4. Ámbito de aplicación (edificación, urbanismo, restauración).
 
 Los principios y procedimientos detallados en este documento son aplicables a una amplia variedad de contextos
 donde se utiliza la piedra natural en la construcción. Esto incluye:
@@ -64,9 +64,9 @@ Aunque las técnicas específicas pueden variar según la aplicación y el tipo 
 planificación, ejecución segura y control de calidad son comunes a todos estos ámbitos.
 
 
-### 2. Definición y Objetivos del Mantenimiento
+## 4.2. Definición y Objetivos del Mantenimiento
 
-####  2.1. Definición de mantenimiento de piedra natural.
+### 4.2.1. Definición de mantenimiento de piedra natural.
 
 El mantenimiento de la piedra natural en la construcción abarca el conjunto de operaciones, procedimientos y
 técnicas dirigidas a preservar, proteger y, si es necesario, restaurar las propiedades estéticas, funcionales y
@@ -76,7 +76,7 @@ restaurativo), con el fin de asegurar su durabilidad, belleza y comportamiento a
 a cualquier elemento pétreo, ya sea en fachadas, pavimentos, interiores, exteriores, o elementos ornamentales,
 adaptando las técnicas a las características específicas del material, su ubicación y las patologías presentes.
 
-####  2.2. Diferencias entre mantenimiento preventivo, correctivo y restaurativo
+### 4.2.2. Diferencias entre mantenimiento preventivo, correctivo y restaurativo
 Comprender los distintos enfoques del mantenimiento es crucial para una gestión efectiva:
 
 - **Mantenimiento Preventivo** : Consiste en acciones planificadas y regulares realizadas antes de que
@@ -99,7 +99,7 @@ Comprender los distintos enfoques del mantenimiento es crucial para una gestión
 Aunque distintos, estos enfoques pueden integrarse en un plan de gestión global para la conservación de la piedra
 natural.
 
-####  2.3. Objetivos principales.
+### 4.2.3. Objetivos principales.
 
 El mantenimiento de la piedra natural persigue una serie de metas fundamentales:
 
@@ -120,13 +120,13 @@ El mantenimiento de la piedra natural persigue una serie de metas fundamentales:
     cumpliendo con los requisitos técnicos y de seguridad establecidos por la normativa vigente.
 
 
-### 3. Factores que Afectan a la Durabilidad y Necesidad de Mantenimiento
+## 4.3. Factores que Afectan a la Durabilidad y Necesidad de Mantenimiento
 
 La vida útil y el comportamiento a largo plazo de la piedra natural en la construcción dependen de una compleja
 interacción entre sus características inherentes, las condiciones del entorno en el que se encuentra y el uso al que
 está sometida. Comprender estos factores es esencial para planificar estrategias de mantenimiento efectivas.
 
-####  3.1. Factores intrínsecos del material.
+### 4.3.1. Factores intrínsecos del material.
 
 Las propiedades propias de cada tipo de piedra determinan en gran medida su resistencia a la degradación:
 
@@ -143,7 +143,7 @@ Las propiedades propias de cada tipo de piedra determinan en gran medida su resi
     manchas o reacciones indeseadas si los materiales no son compatibles. La presencia de sales solubles en
     morteros, por ejemplo, puede causar eflorescencias en la piedra.
 
-####  3.2. Factores ambientales.
+### 4.3.2. Factores ambientales.
 
 El entorno donde se instala la piedra natural la somete a diversas agresiones:
 
@@ -165,7 +165,7 @@ El entorno donde se instala la piedra natural la somete a diversas agresiones:
     material, retener humedad y facilitar la acción de otros agentes de deterioro. Las raíces de plantas
     superiores pueden causar daños mecánicos.
 
-####  3.3. Factores relacionados con el uso y ubicación.
+### 4.3.3. Factores relacionados con el uso y ubicación.
 
 La función y el contexto de la aplicación de la piedra natural también influyen en su necesidad de mantenimiento:
 
@@ -181,19 +181,17 @@ todo si es porosa o sensible.
     de motor, bebidas) son causas de deterioro que requieren intervención correctiva.
 - **Calidad de la instalación inicial** (juntas, drenaje, soporte): Una instalación deficiente puede ser el origen de
     futuros problemas. Juntas mal ejecutadas permiten la entrada de agua. Un drenaje insuficiente en
-    exteriores o fachadas facilita la acumulación de humedad. Un soporte inestable o incompatible puede
-
-## causar fisuras o desprendimientos.
+    exteriores o fachadas facilita la acumulación de humedad. Un soporte inestable o incompatible puede causar fisuras o desprendimientos.
 
 
-### 4. Patologías Comunes de la Piedra Natural
+## 4.4. Patologías Comunes de la Piedra Natural
 
 La degradación de la piedra natural se manifiesta a través de diversas patologías que afectan su apariencia,
 integridad y funcionalidad. Identificar correctamente el tipo de patología y su causa es el primer paso para
 seleccionar el tratamiento de mantenimiento más efectivo. Estas patologías pueden clasificarse según su origen
 principal: físico, químico, biológico o relacionado con la instalación.
 
-####  4.1. Patologías físicas:
+### 4.4.1. Patologías físicas:
 
 Son aquellas causadas por acciones mecánicas o cambios físicos en el material o su entorno.
 
@@ -214,7 +212,7 @@ Son aquellas causadas por acciones mecánicas o cambios físicos en el material 
     son visibles en la superficie como manchas blancas y pulverulentas. Las criptoflorescencias ocurren bajo la
     superficie, siendo más dañinas por la presión interna que generan, causando descamación o disgregación.
 
-####  4.2. Patologías químicas:
+### 4.4.2. Patologías químicas:
 Son el resultado de reacciones químicas entre los componentes de la piedra y sustancias externas (contaminantes,
 productos de limpieza, etc.).
 
@@ -235,7 +233,7 @@ productos de limpieza, etc.).
     con hollín para formar costras negras y duras que pueden adherirse fuertemente o, por el contrario,
     despegarse y causar la pérdida de material de la piedra subyacente.
 
-####  4.3. Patologías biológicas:
+### 4.4.3. Patologías biológicas:
 
 Son causadas por la colonización y actividad de seres vivos sobre o dentro de la piedra.
 
@@ -251,7 +249,7 @@ Son causadas por la colonización y actividad de seres vivos sobre o dentro de l
     fisuras) pueden penetrar en ella y ejercer presión a medida que crecen, expandiendo grietas y causando
     daños mecánicos significativos.
 
-####  4.4. Patologías relacionadas con la instalación:
+### 4.4.4. Patologías relacionadas con la instalación:
 
 Surgen por defectos o fallos en el proceso o materiales de colocación.
 
@@ -266,13 +264,13 @@ Surgen por defectos o fallos en el proceso o materiales de colocación.
     inadecuado que no facilita la evacuación del agua (sin goterones, pendientes incorrectas). El agua filtrada puede causar daños internos, moho, humedades y promover otras patologías en la piedra.
 
 
-### 5. Materiales y Productos para el Mantenimiento y Conservación
+## 4.5. Materiales y Productos para el Mantenimiento y Conservación
 
 La selección adecuada de materiales y productos es fundamental para un mantenimiento efectivo de la piedra
 natural. Un producto incorrecto puede no solo ser ineficaz, sino incluso causar daños irreversibles al material. Los
 productos se eligen en función del tipo de patología a tratar, el tipo de piedra y la aplicación específica.
 
-####  5.1. Productos de limpieza:
+### 4.5.1. Productos de limpieza:
 
 El objetivo de la limpieza es eliminar depósitos superficiales y manchas sin dañar la piedra.
 
@@ -291,7 +289,7 @@ El objetivo de la limpieza es eliminar depósitos superficiales y manchas sin da
     ventiladas para eliminar restos de pintura, resinas, adhesivos o grafitis. La elección del disolvente depende
     de la naturaleza de la sustancia a eliminar y la sensibilidad de la piedra.
 
-####  5.2. Productos de consolidación:
+### 4.5.2. Productos de consolidación:
 
 Aplicados para devolver cohesión a piedras que han perdido material o se han disgregado, fortaleciendo su
 estructura interna.
@@ -306,7 +304,7 @@ estructura interna.
     usan a menudo en restauraciones puntuales. La elección depende de la porosidad de la piedra y el grado
     de disgregación.
 
-####  5.3. Productos de protección:
+### 4.5.3. Productos de protección:
 
 Crean una barrera para repeler agentes de deterioro y facilitar la limpieza, sin alterar significativamente el aspecto
 natural de la piedra ni su transpirabilidad idealmente.
@@ -328,7 +326,7 @@ natural de la piedra ni su transpirabilidad idealmente.
     su posterior eliminación sin dañar la piedra subyacente. Pueden ser de sacrificio (se retiran con la pintura)
     o permanentes.
 
-####  5.4. Materiales de reparación:
+### 4.5.4. Materiales de reparación:
 
 Utilizados para reparar daños físicos como fisuras, roturas o pérdida de material.
 
@@ -344,7 +342,7 @@ Utilizados para reparar daños físicos como fisuras, roturas o pérdida de mate
     restauración especialmente formulados para reemplazar fragmentos perdidos, siguiendo técnicas que
     aseguren la integración estética y estructural.
 
-####  5.5. Criterios de selección y compatibilidad de productos.
+### 4.5.5. Criterios de selección y compatibilidad de productos.
 
 La elección de cualquier producto debe basarse en:
 
@@ -360,14 +358,14 @@ La elección de cualquier producto debe basarse en:
 - **Pruebas previas** : Siempre realizar ensayos en una pequeña zona discreta para verificar el resultado estético y la ausencia de reacciones adversas antes de la aplicación general.
 
 
-### 6. Planificación y Ejecución de Intervenciones de Mantenimiento
+## 4.6. Planificación y Ejecución de Intervenciones de Mantenimiento
 
 Una intervención de mantenimiento o conservación en piedra natural ya sea una limpieza rutinaria o una
 restauración compleja, requiere una planificación previa y una ejecución metódica para garantizar resultados
 efectivos y seguros. Este proceso se inicia con una evaluación detallada y culmina con la aplicación de las técnicas
 seleccionadas.
 
-####  6.1. Evaluación y diagnóstico del estado de conservación
+### 4.6.1. Evaluación y diagnóstico del estado de conservación
 Este es el primer y más crítico paso. Consiste en determinar el estado actual de la piedra y identificar las patologías
 presentes, sus causas y su extensión. Una evaluación rigurosa permite seleccionar las técnicas y productos más
 adecuados, evitando intervenciones innecesarias o perjudiciales.
@@ -397,7 +395,7 @@ adecuados, evitando intervenciones innecesarias o perjudiciales.
     escritas y resultados de los ensayos conforman el "estado cero", un registro esencial antes de cualquier
     intervención para documentar el punto de partida y evaluar la efectividad de las acciones futuras.
 
-####  6.2. Definición de objetivos y alcance de la intervención.
+### 4.6.2. Definición de objetivos y alcance de la intervención.
 
 Basándose en el diagnóstico, se establecen claramente qué se quiere conseguir con la intervención y hasta dónde
 se extenderán las acciones.
@@ -409,7 +407,7 @@ se extenderán las acciones.
     la superficie del elemento (limpieza general de una fachada, repulido de un pavimento)? El alcance influye
     directamente en los recursos necesarios (mano de obra, materiales, tiempo, coste).
 
-####  6.3. Selección de técnicas y productos adecuados.
+### 4.6.3. Selección de técnicas y productos adecuados.
 
 Con el diagnóstico y los objetivos claros, se eligen los métodos y productos a aplicar, refiriéndose a los conocimientos
 sobre patologías (Sección 4) y materiales/productos (Sección 5).
@@ -420,7 +418,7 @@ condiciones ambientales y los requisitos de seguridad.
 o Se recomienda realizar pruebas de compatibilidad y efectividad de los productos en una pequeña
 zona discreta o en una muestra antes de la aplicación a gran escala.
 
-####  6.4. Elaboración de un Plan de Mantenimiento o Proyecto de Intervención.
+### 4.6.4. Elaboración de un Plan de Mantenimiento o Proyecto de Intervención.
 
 Especialmente para intervenciones de cierta envergadura o en patrimonio, es recomendable formalizar el proceso
 en un documento.
@@ -432,7 +430,7 @@ en un documento.
     fichas técnicas), plan de trabajo, cronograma, presupuesto, plan de seguridad y salud, y, en restauración,
     justificación del respeto a los principios de mínima intervención y reversibilidad.
 
-####  6.5. Fases generales de ejecución.
+### 4.6.5. Fases generales de ejecución.
 
 Aunque las técnicas específicas varían, una intervención de mantenimiento o conservación suele seguir una
 secuencia lógica:
@@ -457,14 +455,14 @@ secuencia lógica:
     futuro mantenimiento.
 
 
-### 7. Técnicas de Mantenimiento por Aplicación Específica
+## 4.7. Técnicas de Mantenimiento por Aplicación Específica
 
 Aunque los principios generales de mantenimiento (diagnóstico, limpieza, tratamiento, protección) son comunes,
 las técnicas y consideraciones prácticas varían significativamente dependiendo de dónde se haya colocado la piedra
 natural. La exposición a diferentes agentes de deterioro y las exigencias funcionales de cada aplicación dictan los
 procedimientos más adecuados.
 
-####  7.1. Mantenimiento de Fachadas.
+### 4.7.1. Mantenimiento de Fachadas.
 
 Las fachadas de piedra natural están directamente expuestas a las inclemencias del tiempo, la contaminación
 atmosférica y la acción biológica. Su mantenimiento es crucial para proteger la estructura del edificio y mantener su
@@ -501,7 +499,7 @@ estética.
     periódicamente el estado de los elementos de fijación y asegurar que la cámara de aire esté libre de
     obstrucciones para garantizar su correcto funcionamiento térmico e higrotérmico.
 
-####  7.2. Mantenimiento de Pavimentos (Interiores y Exteriores).
+### 4.7.2. Mantenimiento de Pavimentos (Interiores y Exteriores).
 
 Los pavimentos de piedra natural sufren principalmente desgaste por abrasión, impactos y riesgo de manchas o
 resbalones.
@@ -531,7 +529,7 @@ resbalones.
     facilitando la limpieza y protegiendo contra manchas y humedad. Se debe elegir el producto adecuado
     según el uso y el tipo de piedra.
 
-####  7.3. Mantenimiento de Encimeras y Aplacados Interiores.
+### 4.7.3. Mantenimiento de Encimeras y Aplacados Interiores.
 
 Superficies muy expuestas a manchas, productos químicos, calor (encimeras de cocina) y humedad (baños).
 
@@ -548,7 +546,7 @@ Superficies muy expuestas a manchas, productos químicos, calor (encimeras de co
     muebles, revisar y sustituir los sellados de silicona o masilla si están deteriorados para evitar filtraciones de
     agua.
 
-####  7.4. Mantenimiento de Escaleras.
+### 4.7.4. Mantenimiento de Escaleras.
 
 Elementos de alto tránsito con concentración de desgaste en los cantos de los peldaños y riesgo de caídas.
 
@@ -562,16 +560,11 @@ Elementos de alto tránsito con concentración de desgaste en los cantos de los 
 - **Revisión de anclajes y barandillas asociadas** : Asegurar que los peldaños estén bien fijados al soporte y que
     las barandillas o pasamanos estén firmemente anclados, ya que son elementos de seguridad clave.
 
-####  7.5. Mantenimiento de Elementos Ornamentales y Escultóricos.
+### 4.7.5. Mantenimiento de Elementos Ornamentales y Escultóricos.
 
 Requieren técnicas respetuosas para preservar detalles y valor histórico/artístico.
 
-- **Limpieza suave** : Evitar métodos abrasivos. Preferir limpieza con agua pulverizada ( **mists** , en inglés,
-
-#### "nieblas finas", “gotas finas” o "rocíos"), cepillado suave en seco, o uso de poultices para extraer
-
-
-suciedad o sales.
+- **Limpieza suave** : Evitar métodos abrasivos. Preferir limpieza con agua pulverizada ( **mists** , en inglés, "nieblas finas", “gotas finas” o "rocíos"), cepillado suave en seco, o uso de poultices para extraer suciedad o sales.
 
 
 - **Tratamiento de biodeterioro** : Aplicar biocidas específicos para eliminar líquenes, musgos, etc., a menudo
@@ -585,7 +578,7 @@ suciedad o sales.
     intemperie.
 
 
-### 8. Seguridad y Salud en las Tareas de Mantenimiento
+## 4.8. Seguridad y Salud en las Tareas de Mantenimiento
 
 Las tareas de mantenimiento y conservación de la piedra natural, al igual que otras actividades de construcción o
 rehabilitación, conllevan una serie de riesgos laborales que deben ser identificados, evaluados y controlados
@@ -593,7 +586,7 @@ adecuadamente para proteger la salud y la seguridad de los trabajadores. La apli
 cumplimiento de la normativa vigente son imprescindibles para evitar accidentes, enfermedades profesionales y
 garantizar un entorno de trabajo seguro.
 
-####  8.1. Normativa de referencia.
+### 4.8.1. Normativa de referencia.
 
 La seguridad y salud en el trabajo en España se rige por un marco normativo amplio. En el contexto de las tareas de
 mantenimiento y conservación de la piedra natural, son especialmente relevantes:
@@ -638,7 +631,7 @@ mantenimiento y conservación de la piedra natural, son especialmente relevantes
     (presente en algunas estructuras antiguas o morteros) está estrictamente regulado (RD 396/2006) y
     requiere formación, plan de trabajo aprobado y empresa inscrita en el RERA.
 
-###  8.2. Riesgos específicos en mantenimiento.
+### 4.8.2. Riesgos específicos en mantenimiento.
 
 
 Las tareas de mantenimiento de la piedra natural conllevan riesgos particulares, además de los genéricos de
@@ -690,7 +683,7 @@ cualquier trabajo en el sector:
     circulatorios). Exposición a la radiación solar (quemaduras solares, riesgo a largo plazo de cáncer de piel).
     Trabajos con lluvia intensa o viento fuerte.
 
-###  8.3. Medidas de prevención colectiva y protección individual.
+### 4.8.3. Medidas de prevención colectiva y protección individual.
 
 La estrategia preventiva busca controlar los riesgos siguiendo una jerarquía clara, priorizando las soluciones que
 protegen a más personas y son más fiables.
@@ -753,7 +746,7 @@ fuentes de ruido si es posible.
           visibilidad en zonas con tráfico. Ropa específica (impermeable, térmica) según condiciones
           climáticas. Ropa de protección química si aplica (buzos).
 
-###  8.4. Protocolos de actuación y emergencias.
+### 4.8.4. Protocolos de actuación y emergencias.
 
 La correcta planificación de la respuesta ante emergencias es un pilar de la seguridad. Todos los trabajadores deben
 conocer los procedimientos y saber cómo actuar.
@@ -783,14 +776,14 @@ de su puesto y las medidas preventivas a adoptar. La vigilancia de la salud espe
 control biológico si aplica) puede ser necesaria en función de los riesgos identificados en la evaluación.
 
 
-## 9. Control de Calidad en el Mantenimiento y Restauración
+## 4.9. Control de Calidad en el Mantenimiento y Restauración
 
 El control de calidad (CC) en las intervenciones de mantenimiento y conservación de la piedra natural es un proceso
 sistemático y continuo que garantiza que las acciones realizadas cumplen con los requisitos técnicos, estéticos,
 funcionales y normativos establecidos. Un CC riguroso asegura la efectividad de la intervención, prolonga la vida útil
 del material y preserva su valor, especialmente crítico en el ámbito de la restauración de bienes patrimoniales.
 
-###  9.1. Normativa y documentos de referencia.
+### 4.9.1. Normativa y documentos de referencia.
 
 El control de calidad se apoya en una serie de documentos técnicos, normativas y guías que establecen los
 estándares y procedimientos a seguir.
@@ -829,7 +822,7 @@ estándares y procedimientos a seguir.
        para la intervención en bienes culturales pétreos. Proporcionan criterios de calidad y buenas
        prácticas específicos para la restauración.
 
-###  9.2. Objetivos del control de calidad
+### 4.9.2. Objetivos del control de calidad
 El control de calidad en el mantenimiento y restauración de piedra natural persigue varios objetivos fundamentales:
 
 - **Verificar la adecuación y calidad de los materiales y productos** : Asegurar que los productos recibidos en
@@ -855,7 +848,7 @@ El control de calidad en el mantenimiento y restauración de piedra natural pers
 - **Garantizar el cumplimiento normativo** : Asegurar que tanto los materiales como la ejecución cumplen con
     las normativas de producto, de construcción, de seguridad y, en su caso, de patrimonio.
 
-###  9.3. Fases del control de calidad.
+### 4.9.3. Fases del control de calidad.
 
 El control de calidad debe llevarse a cabo de forma integrada a lo largo de todo el proceso de intervención.
 
@@ -905,7 +898,7 @@ o Realización de pruebas post-intervención (ver 9.5).
 o Evaluación de la funcionalidad : Si aplica, verificar la resistencia al deslizamiento (pavimentos), la
 estanqueidad (fachadas/juntas), etc.
 
-###  9.4. Criterios de evaluación y aceptación.
+### 4.9.4. Criterios de evaluación y aceptación.
 
 Los criterios de aceptación definen cuándo una determinada fase del control de calidad o el resultado final se
 considera satisfactorio. Estos criterios deben estar especificados en el Plan de Mantenimiento o Proyecto de
@@ -945,7 +938,7 @@ Intervención.
        requisitos normativos de resbaladicidad (ej. clases según CTE DB-SUA).
     o **Estanqueidad** : Las fachadas o cubiertas reparadas/tratadas no presentan filtraciones de agua.
 
-###  9.5. Ensayos y pruebas post-intervención (si aplica)
+### 4.9.5. Ensayos y pruebas post-intervención (si aplica)
 
 
 Para verificar la efectividad de ciertas intervenciones, especialmente en restauración o en aplicaciones críticas, se
@@ -972,7 +965,7 @@ curado/actuado completamente.
 - **Evaluación de cambios cromáticos** : Medición instrumental del color (colorimetría) antes y después de la
     intervención para cuantificar alteraciones cromáticas, especialmente si se usaron químicos.
 
-###  9.6. Documentación y registro de la intervención.
+### 4.9.6. Documentación y registro de la intervención.
 
 Una documentación completa y detallada de la intervención de mantenimiento o restauración es esencial para el
 control de calidad, la trazabilidad, y la planificación del futuro mantenimiento.
@@ -1009,14 +1002,14 @@ de la intervención a lo largo del tiempo y planificar las siguientes acciones d
 informada.
 
 
-## 10. Buenas Prácticas y Recomendaciones Generales
+## 4.10. Buenas Prácticas y Recomendaciones Generales
 
 Más allá de las intervenciones puntuales para corregir patologías, el mantenimiento de la piedra natural debe ser
 un proceso continuo y proactivo. La implementación de buenas prácticas y el seguimiento de recomendaciones
 generales son clave para preservar la belleza, la funcionalidad y la durabilidad del material a lo largo del tiempo,
 optimizando recursos y evitando deterioros mayores.
 
-###  10.1. Programa de inspección y limpieza regular.
+### 4.10.1. Programa de inspección y limpieza regular.
 
 La constancia en la observación y el aseo es la base del mantenimiento preventivo.
 
@@ -1039,7 +1032,7 @@ La constancia en la observación y el aseo es la base del mantenimiento preventi
     o Realizar limpiezas húmedas (fregado, lavado) con detergentes neutros y agua limpia.
     o Asegurar que la limpieza se extiende a las juntas y recovecos donde la suciedad puede acumularse.
 
-###  10.2. Uso de productos de limpieza y mantenimiento adecuados al tipo de piedra.
+### 4.10.2. Uso de productos de limpieza y mantenimiento adecuados al tipo de piedra.
 
 La elección correcta de los productos es fundamental para evitar daños. Un producto inadecuado puede ser más
 perjudicial que la suciedad misma.
@@ -1057,7 +1050,7 @@ perjudicial que la suciedad misma.
     pequeña prueba en una zona discreta o en una muestra de la misma piedra para verificar la reacción, el
     efecto estético y la ausencia de daños.
 
-###  10.3. Evitar productos abrasivos o ácidos (salvo excepciones controladas).
+### 4.10.3. Evitar productos abrasivos o ácidos (salvo excepciones controladas).
 
 Estos productos son particularmente peligrosos para la mayoría de las piedras naturales.
 
@@ -1074,7 +1067,7 @@ Estos productos son particularmente peligrosos para la mayoría de las piedras n
     ácidos o alcalinos, pero siempre con protocolos muy controlados, diluciones precisas, protección de zonas
     adyacentes y un aclarado exhaustivo inmediato.
 
-###  10.4. Actuar rápidamente ante manchas.
+### 4.10.4. Actuar rápidamente ante manchas.
 
 La inmediatez es clave para una eliminación exitosa de las manchas.
 
@@ -1085,7 +1078,7 @@ La inmediatez es clave para una eliminación exitosa de las manchas.
 - **Profesionales** : Para manchas persistentes, antiguas o de origen desconocido, contactar con un especialista
     en limpieza y restauración de piedra.
 
-###  10.5. Asegurar un buen drenaje y ventilación.
+### 4.10.5. Asegurar un buen drenaje y ventilación.
 
 La gestión del agua y la humedad es crítica para prevenir muchas patologías.
 
@@ -1099,7 +1092,7 @@ La gestión del agua y la humedad es crítica para prevenir muchas patologías.
     (especialmente baños y cocinas) y detrás de aplacados para evitar la condensación y el crecimiento de moho
     o biodeterioro.
 
-###  10.6. Considerar la intervención de especialistas para patologías complejas o restauración.
+### 4.10.6. Considerar la intervención de especialistas para patologías complejas o restauración.
 
 Aunque muchas tareas de mantenimiento son rutinarias, ciertos problemas requieren conocimientos y experiencia
 especializada.
@@ -1113,7 +1106,7 @@ especializada.
     restauradores titulados, siguiendo principios éticos de mínima intervención, compatibilidad y
     reversibilidad, y a menudo bajo la supervisión de la administración competente en patrimonio.
 
-###  10.7. Importancia de la formación y capacitación del personal.
+### 4.10.7. Importancia de la formación y capacitación del personal.
 
 La calidad del mantenimiento depende directamente de la preparación de quienes lo ejecutan.
 
@@ -1127,7 +1120,7 @@ La calidad del mantenimiento depende directamente de la preparación de quienes 
 - **Actualización constante** : Mantener al personal al día sobre las últimas innovaciones en productos, técnicas
     y normativas de seguridad y medioambientales.
 
-###  10.8. Respeto por los principios de mínima intervención y reversibilidad (especialmente en patrimonio).
+### 4.10.8. Respeto por los principios de mínima intervención y reversibilidad (especialmente en patrimonio).
 
 Estos principios guían las actuaciones en el ámbito de la conservación y restauración, pero son aplicables como
 buena práctica general.
@@ -1141,14 +1134,14 @@ buena práctica general.
     valor patrimonial.
 
 
-## 11. Bibliografía, Webgrafía y Recursos en Redes Sociales
+## 4.11. Bibliografía, Webgrafía y Recursos en Redes Sociales
 
 La información contenida en este documento se ha elaborado a partir de una revisión de literatura técnica
 especializada, normativas vigentes, guías de buenas prácticas y recursos digitales relevantes. La correcta citación de
 las fuentes es fundamental para el rigor técnico y para permitir al lector profundizar en los temas abordados. Las
 citas se presentan siguiendo las directrices de la norma UNE-ISO 690.
 
-###  11.1. Bibliografía.
+### 4.11.1. Bibliografía.
 
 Incluye libros, informes técnicos y normas que proporcionan una base sólida y detallada sobre la piedra natural, su
 mantenimiento y conservación. Se han priorizado aquellas publicaciones de carácter más general y otras con especial
@@ -1195,7 +1188,7 @@ Biblioteca de la Universitat de València, o las bibliotecas de los colegios pro
 aparejadores/arquitectos técnicos en Valencia.
 
 
-###  11.2. Webgrafía
+### 4.11.2. Webgrafía
 
 Recursos online de instituciones, asociaciones y portales técnicos que ofrecen información actualizada y práctica,
 con un enfoque en recursos de la Comunidad Valenciana cuando sea posible.
@@ -1263,7 +1256,7 @@ con un enfoque en recursos de la Comunidad Valenciana cuando sea posible.
     " **https://www.valencia.es/** " (Buscar en las áreas de Urbanismo y Patrimonio). [Consulta: 3 abr. 2025].
     (Enlace funcional, se debe navegar a las secciones correspondientes).
 
-###  11.3. Recursos en redes sociales.
+### 4.11.3. Recursos en redes sociales.
 
 Perfiles y plataformas en redes sociales que difunden conocimientos, tendencias y buenas prácticas en la
 conservación de la piedra natural y la seguridad laboral, incluyendo algunas de interés local.
@@ -1293,9 +1286,9 @@ conservación de la piedra natural y la seguridad laboral, incluyendo algunas de
     enlaces proporcionados funcionan).
 
 
-## 12. Vocabulario
+## 4.12. Vocabulario
 
-###  12.1. Crioclastia
+### 4.12.1. Crioclastia
 
 La **crioclastia** , también conocida como **gelifracción** , **criofracturación** , **gelivación** o **meteorización por helada**
 
@@ -1336,7 +1329,7 @@ es tan efectivo como múltiples ciclos.
 o Resistencia del material: Materiales menos resistentes se fragmentarán más fácilmente.
 o Grado de saturación: La cantidad de agua en los poros es crucial.
 
-###  12.2. Yesificación
+### 4.12.2. Yesificación
 
 La **yesificación** (también conocida como **sulfatación** en el contexto de materiales de construcción, o
 
@@ -1404,7 +1397,7 @@ La yesificación es un problema común en la conservación del patrimonio arquit
 de piedra caliza o mármol situados en zonas urbanas con alta contaminación atmosférica. También puede afectar a
 estructuras de hormigón y mampostería.
 
-###  12.3. Criptoflorescencias
+### 4.12.3. Criptoflorescencias
 
 Las **criptoflorescencias** (a veces también llamadas **subflorescencias** o **criptoeflorescencias** ) son
 
@@ -1459,7 +1452,7 @@ Las criptoflorescencias son una patología común en materiales de construcción
 sequedad o donde hay una fuente constante de sales. Su detección temprana es difícil, y a menudo solo se
 evidencian cuando el daño superficial (descamación, etc.) ya es visible.
 
-###  12.4. Poultice
+### 4.12.4. Poultice
 
 Un **"poultice"** (en plural, **"poultices"** ), en el contexto de la conservación y limpieza de materiales, especialmente
 piedra, ladrillo, terracota y otros materiales porosos, se refiere a una **cataplasma o emplasto absorbente**.
@@ -1521,7 +1514,7 @@ o Limpieza de contaminación general en fachadas de edificios históricos.
 En resumen, un **poultice** es una técnica de limpieza que utiliza una pasta absorbente para "extraer" suavemente las
 manchas y sales de los materiales porosos, funcionando como una especie de cataplasma que chupa las impurezas.
 
-###  12.5. Biodeterioro
+### 4.12.5. Biodeterioro
 
 El **biodeterioro** es el deterioro o la alteración indeseable de las propiedades de un material causada por la
 

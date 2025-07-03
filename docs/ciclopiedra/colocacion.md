@@ -1,9 +1,9 @@
 ---
-sidebar_position: 6
+sidebar_position: 3
 ---
 
-# 4. Colocación de materiales pétreo en la construcción
-## 1. Introducción
+# 3. Colocación de materiales pétreo en la construcción
+## 3.1. Introducción
 
 Desde los albores de la civilización, la piedra ha sido un pilar fundamental en la construcción de espacios habitables,
 monumentales y funcionales. Su presencia en edificaciones ancestrales, desde las pirámides de Egipto hasta los
@@ -26,7 +26,7 @@ su compatibilidad con estructuras complejas y normativas de eficiencia energéti
 símbolo de equilibrio entre lo atemporal y lo innovador, reafirmando su papel irremplazable en la arquitectura del
 futuro.
 
-## 2. Definición
+## 3.2. Definición
 
 La colocación de piedra en la construcción es el conjunto de procesos técnicos mediante los cuales se fijan,
 ensamblan y ajustan piezas de piedra natural sobre distintos soportes estructurales o decorativos, tanto en
@@ -41,7 +41,7 @@ físicas del material, las condiciones ambientales y el uso previsto.
 Se aplica en múltiples contextos: desde fachadas, pavimentos, muros y escaleras, hasta encimeras, lavabos y
 revestimientos interiores, siendo una técnica que requiere precisión, conocimientos técnicos y sensibilidad estética.
 
-## 3. Objetivos
+## 3.3. Objetivos
 
 La colocación de piedra natural en construcción no es solo una tarea técnica, sino una operación compleja que busca
 alcanzar una serie de **objetivos fundamentales** relacionados con la seguridad, la funcionalidad, la estética y la
@@ -72,7 +72,7 @@ sostenibilidad de la obra. Entre los principales objetivos se encuentran:
     - Emplear sistemas que faciliten el **desmontaje, reutilización o reciclaje** de la piedra al final de su vida útil.
     - Apostar por materiales naturales y técnicas con **bajo impacto ambiental** , en línea con la economía circular.
 
-## 4. Ventajas y desventajas del uso de piedra natural frente a otros materiales
+## 3.4. Ventajas y desventajas del uso de piedra natural frente a otros materiales
 
 La piedra natural es un material ampliamente utilizado en construcción y diseño debido a sus propiedades
 mecánicas, estéticas y sostenibles. Sin embargo, como cualquier material, presenta ventajas y desventajas en
@@ -141,7 +141,7 @@ comparación con otras opciones como cerámica, hormigón, madera o materiales s
     - Algunas explotaciones mineras pueden afectar el ecosistema si no cuentan con regulaciones
        adecuadas.
 
-## 5. Aplicaciones en edificación, urbanismo y restauración
+## 3.5. Aplicaciones en edificación, urbanismo y restauración
 
 
 **Edificación**
@@ -168,7 +168,7 @@ comparación con otras opciones como cerámica, hormigón, madera o materiales s
 - **Reposición de elementos deteriorados** : Uso de piedra natural compatible con la original para garantizar
     una integración adecuada.
 
-## 6. Materiales
+## 3.6. Materiales
 
 ### Tipos de piedra y sus propiedades
 
@@ -256,7 +256,7 @@ textura, el brillo y la resistencia al deslizamiento.
 - Tratamientos : hidrofugantes, antihongos, consolidantes y selladores, esenciales para prolongar la
 vida útil y facilitar el mantenimiento.
 
-## 7. Fases en la colocación
+## 3.7. Fases en la colocación
 
 La correcta colocación de piedra natural implica una serie de fases bien definidas que garantizan un resultado seguro,
 duradero y estéticamente acorde con el proyecto. A continuación, se detallan las fases principales:
@@ -275,7 +275,7 @@ duradero y estéticamente acorde con el proyecto. A continuación, se detallan l
 12. Limpieza y protección
 
 
-## 8. Proceso de colocación de pavimento según ubicación y geometría del espacio
+## 3.8. Proceso de colocación de pavimento según ubicación y geometría del espacio
 
 La colocación de pavimentos de piedra natural requiere una planificación cuidadosa y una ejecución precisa,
 adaptada tanto al entorno (interior o exterior) como a las condiciones específicas del espacio (estancias a escuadra
@@ -465,7 +465,7 @@ Este proceso es muy común en suelos de **mármol, granito o terrazo interior** 
 - En interiores pulidos, seguir con **desbastado, pulido y abrillantado** si se requiere un acabado
     espejo.
 
-## 9. Proceso de colocación de piedra en fachadas
+## 3.9. Proceso de colocación de piedra en fachadas
 
 
 ### 1. Estudio previo del proyecto
@@ -693,7 +693,7 @@ Este proceso, adaptado a diferentes sistemas constructivos y condiciones climát
 segura, duradera y estéticamente coherente de piedra natural en fachadas, integrando criterios técnicos y visuales
 aplicables a cualquier tipología de edificación.
 
-## 10. Colocación de encimeras y aplacados interiores de piedra natural
+## 3.10. Colocación de encimeras y aplacados interiores de piedra natural
 
 
 ### 1. Estudio previo del proyecto
@@ -820,7 +820,7 @@ aplicables a cualquier tipología de edificación.
 - En mármol y calizas: aplicar **sellador antimanchas** o hidrofugante.
 - Cubrir con plástico o cartón hasta la finalización de la obra para evitar golpes o manchas.
 
-## 11. Colocación de piedra natural en escaleras
+## 3.11. Colocación de piedra natural en escaleras
 
 
 ### 1. Estudio previo del proyecto
@@ -907,7 +907,7 @@ aplicables a cualquier tipología de edificación.
 - Aplicación de **hidrofugantes** o protectores antideslizantes si se requiere.
 - En escaleras exteriores: verificar **drenaje correcto** y evitar acumulaciones de agua.
 
-## 12. Seguridad y salud en la colocación de piedra natural
+## 3.12. Seguridad y salud en la colocación de piedra natural
 
 La colocación de piedra natural en construcción, ya sea en interiores o exteriores, implica riesgos laborales
 importantes. Es fundamental aplicar medidas de prevención adecuadas para garantizar la seguridad y salud de los
@@ -1082,7 +1082,7 @@ individuales son imprescindibles para reducir accidentes y enfermedades laborale
 Todo el personal debe estar **capacitado, informado y equipado** , y la empresa debe asegurar un entorno de trabajo
 seguro en todas las fases del proceso.
 
-## 13. Control de calidad en la colocación de piedra natural
+## 3.13. Control de calidad en la colocación de piedra natural
 
 El control de calidad es fundamental para garantizar que la colocación de piedra natural cumpla con los requisitos
 técnicos, estéticos, funcionales y normativos exigidos en los proyectos de construcción. A continuación se detalla un
@@ -1183,7 +1183,7 @@ Un correcto control de calidad garantiza no solo el cumplimiento normativo, sino
 y estética de los trabajos de colocación de piedra natural. La inspección rigurosa, el registro de datos y la formación
 continua son pilares clave para lograr una ejecución profesional y sin fallos.
 
-## 14. Bibliografía, webgrafía y recursos en redes sociales siguiendo la norma UNE-ISO
+## 3.14. Bibliografía, webgrafía y recursos en redes sociales siguiendo la norma UNE-ISO
 
 
 ### Bibliografía

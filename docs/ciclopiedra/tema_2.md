@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# 2.	TRANSFORMACIÓN DE LA PIEDRA NATURAL
+# 2.	Transformación de la piedra natural
 
 ## 2.1. INTRODUCCIÓN
 La transformación de la piedra natural es un proceso fundamental en la industria de la construcción y el diseño, donde la materia prima extraída de la naturaleza se convierte en elementos arquitectónicos y decorativos de alto valor añadido. 
