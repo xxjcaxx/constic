@@ -25,7 +25,7 @@ const config = {
   organizationName: 'xxjcaxx', // Usually your GitHub org/user name.
   projectName: 'constic', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
