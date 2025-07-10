@@ -28,17 +28,22 @@ La primera transformación de la piedra natural requiere maquinaria robusta y pr
 A continuación se muestra un ejemplo de este tipo de maquinaria:
 
 **Telar tradicional.**
-<p align="center">
-    <img src="/materiales/img/Imaxes_tema_2/T02-I01.png"/>
+
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+   <img src="/materiales/img/Imaxes_tema_2/T02-I01.png"/>
+</p>
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
   <a href="https://www.museosregiondemurcia.es/documents/4106806/26279133/Ficha_PRL_telar_MMM/351ccab8-eab3-4696-86bb-0d46021a80cc?version=1.0">Fuente</a>
 </p>
 
 **Telar diamantado.**
 
-  <div >
+
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I02.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I03.png"/>
-</div>
+</p>
+
 
  <p align="center">
   <a href="https://afepiedravillamayor.wordpress.com/2016/01/12/telares-tradicional-y-diamantado/">Fuente</a>
@@ -49,7 +54,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
     <img src="/materiales/img/Imaxes_tema_2/T02-I04.png"/>
 </p>
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I05.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I06.png"/>
 </div>
@@ -60,7 +65,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
 
 **Máquinas de multihilo diamantado.**
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I07.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I08.png"/>
 </div>
@@ -79,7 +84,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
 
 **Máquinas de corte con disco.**
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I10.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I11.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I12.png"/>
@@ -89,7 +94,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <a href="https://www.mks.com.tr/es/product/block-cutter-st-1800-ysuper.html#">Fuente</a>
 </p>
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I13.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I14.png"/>
 </div>
@@ -101,7 +106,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
 
 **Máquina de corte multidisco.**
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I15.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I16.png"/>
 </div>
@@ -119,6 +124,9 @@ Este equipo permite realizar cortes rectos, curvos y biselados, y puede incluir 
 
 <p align="center">
     <img src="/materiales/img/Imaxes_tema_2/T02-I17.png"/>
+
+</p>
+ <p align="center">
   <a href="https://es.elephant-cnc.com/pro/5-axis-cnc-stone-cutting-bridge-saw-machine-with-camera/">Fuente</a>
 </p>
 
@@ -140,7 +148,7 @@ Este equipo permite realizar cortes rectos, curvos y biselados, y puede incluir 
   <a href="https://www.promatic.es/productos/torno-promatic-thor-3000-nc-p1#gallery_dropzone_1-11">Fuente</a>
 </p>
 
-- Robot de mecanizado: es un sistema CNC, automatizado y programable, generalmente con hasta seis o incluso siete ejes, que permite realizar tareas complejas como corte, fresado, tallado, pulido y manipulación de piezas de piedra natural. Su versatilidad radica en la posibilidad de equipar distintos cabezales y herramientas especializadas, como fresas, discos de corte, sopletes para flameado, ventosas de manipulación o sistemas de resinado, adaptándose así a una amplia variedad de acabados y formas. 
+- **Robot de mecanizado**: es un sistema CNC, automatizado y programable, generalmente con hasta seis o incluso siete ejes, que permite realizar tareas complejas como corte, fresado, tallado, pulido y manipulación de piezas de piedra natural. Su versatilidad radica en la posibilidad de equipar distintos cabezales y herramientas especializadas, como fresas, discos de corte, sopletes para flameado, ventosas de manipulación o sistemas de resinado, adaptándose así a una amplia variedad de acabados y formas. 
 Gracias a este alto número de ejes y a la variedad de herramientas que puede portar, el robot es capaz de ejecutar operaciones tridimensionales de gran precisión, optimizando los procesos de producción, reduciendo tiempos de ciclo y permitiendo la fabricación eficiente de piezas ornamentales, arquitectónicas y funerarias con un elevado nivel de detalle y calidad.
 
 <p align="center">
@@ -164,7 +172,7 @@ Estas máquina también funcionan con un sistema de **control numérico computar
 El sistema funciona al enviar el agua a una presión extremadamente alta (alrededor de 4.000 – 6.500 bares, como unos 4.000km/h, una velocidad supersónica) a través de un chorro de pequeño diámetro, que puede ir **acompañado o no de un abrasivo (granate ou garnet)** para cortar materiales duros como la piedra.
 El motivo de añadirle abrasivos al agua es debido a que el simple chorro de agua no sería capaz de realizar cortes en los materiales más duros, por eso se le añaden mezclas de arcillas y vidrios que dotan al sistema de un corte más potente. 
 
-  <div >
+  <div align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I22.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I23.png"/>
 </div>
@@ -216,11 +224,13 @@ Con frecuencia, de una misma plancha se puede sacar elementos diferentes, por lo
 Tras el análisis de la documentación, generación del archivo CAD-CAM, la selección del material y el replanteo, se procede a las operaciones que conforman propiamente el proceso de corte, compuestas básicamente por **tres actividades**:
 
 1. **Posicionamiento adecuado de la piedra en la máquina.**
+
 La piedra se coloca con cuidado en la mesa de corte en sentido longitudinal. Si están incluidas en líneas de corte, las mesas de corte normalmente constan de sensores de posicionamiento que al detectar la piedra activan los rodillos que desplazan la piedra, centrándola en la mesa de corte. 
 Si se tratan de simples mesas de corte, normalmente será el operario el que deba situar la piedra en la posición más adecuada para proceder al corte.
 Una vez colocada la piedra en posición, deberá procederse, en caso necesario, a su inmovilización, para lo que se suelen utilizar cuñas, ventosas o piezas especiales para tal fin.
 
 2. **Programación del corte.**
+
 El replanteo analizado con anterioridad se programa en la máquina de corte, introduciendo una serie de parámetros que normalmente son diferentes para cada una de las máquinas de corte si estas van con el sistema PLC o mediante órden directa desde el ordenador si van con el sistema CNC.
 La programación de los parámetros de corte en máquinas para piedra natural depende del tipo de equipo utilizado. En las cortadoras de disco, es fundamental ajustar la velocidad de giro del disco, la velocidad de avance, la profundidad de pasada según la dureza de la piedra y, en el caso de equipos multidisco, la distancia entre discos para definir el grosor de corte.
 En las cortadoras de hilo, se programa la trayectoria exacta del hilo en el plano de corte, integrando coordenadas o planos CAD, y se define el punto de origen para asegurar precisión. 
@@ -228,6 +238,7 @@ Los equipos de agua a alta presión requieren la introducción de la forma a cor
 En todos los casos, es esencial establecer correctamente el punto cero o de origen de la pieza, ajustar las velocidades y profundidades en función del material y asegurar que la herramienta siga la trayectoria programada para evitar errores y aprovechar al máximo la superficie útil de la piedra.
 
 3.	**Proceso de corte**
+
 En los equipos automatizados de corte para piedra natural, como las cortadoras de disco y de hilo, el proceso se inicia tras programar los parámetros y dar la orden de corte, asegurando primero la refrigeración mediante el suministro de agua al disco o hilo. El corte se realiza de forma automática siguiendo la secuencia programada, y la intervención del operario se limita a la supervisión y a la parada del proceso en caso de incidencia. En cambio, en las cizallas y troqueles el corte es manual, accionado por pedal, y el operario controla directamente el posicionamiento y la ejecución del corte, lo que resulta adecuado para la producción de adoquines y bordillos a partir de bloques pequeños. En todos los casos, la supervisión es esencial para garantizar la calidad y seguridad del proceso.
 
 Cabe destacar que independientemente de la máquina empleada en el corte de la piedra, las fases principales donde se agrupan las operaciones de corte son siempre las mismas. Organización del corte, realización del corte, análisis de las piezas y el embalaje.
@@ -245,6 +256,7 @@ Todos los acabados posibles se pueden clasificar en **tratamientos físicos y tr
 Entre los **tratamientos físicos** más destacados podemos encontrar: 
 
 1. **Aserrado/Serrado**
+
 Actualmente este proceso se lleva a cabo principalmente en telares multihilo, mediante el cual se corta un bloque de piedra para convertirlo en  tablas, o también mediante la utilización de máquinas equipadas con discos diamantados (cortabloques) para producción de bandas, baldosas o plaquetas de piedra.
 Este acabado es casi un paso obligatorio dentro de cualquier línea de producción aplicándose a mármoles, granitos, calizas y areniscas. Con este acabado se consigue una superficie plana, rugosa y sin brillo.
 
@@ -256,6 +268,7 @@ Este acabado es casi un paso obligatorio dentro de cualquier línea de producci�
 </p>
 
 2. **Apomazado**
+
 Consiste en el alisado y pulido de la superficie de la piedra mediante abrasión, utilizando muelas abrasivas cada vez más finas, pero sin llegar a obtener brillo. El resultado es una superficie lisa, mate y suave al tacto, que resalta el aspecto natural y rústico del material, siendo muy agradable visualmente y al tacto. Su uso está recomendado para pavimentos y revestimientos de interior. 
 
 <p align="center">
@@ -266,6 +279,7 @@ Consiste en el alisado y pulido de la superficie de la piedra mediante abrasión
 </p>
 
 3. **Pulido**
+
 Mediante abrasivos de grano progresivamente más fino, se obtiene una superficie completamente lisa y brillante. Este acabado realza el color y la textura de la piedra, y disminuye la porosidad superficial, facilitando la limpieza y el mantenimiento, proporcionando una mayor resistencia al ataque de agentes externos. Su uso está más recomendado a pavimentos y revestimientos de interior. No es compatible con pavimentos que estén a la intemperie por su alta resbaladicidad. 
 
 <p align="center">
@@ -276,6 +290,7 @@ Mediante abrasivos de grano progresivamente más fino, se obtiene una superficie
 </p>
 
 4. **Abujardado**
+
 Se logra golpeando la piedra con una herramienta llamada bujarda (martillo con puntas o pequeños dientes piramidales), generando pequeños cráteres uniformes. Aunque se puede realizar de forma manual, hoy en día se utilizan martillos neumáticos que se pueden desplazar de forma manual o de forma automática. El resultado es una textura rugosa, de aspecto rústico y propiedades antideslizantes, ideal para exteriores y zonas húmedas. Al igual que el acabado flameado, no se recomienda para pavimentos interiores por su dificultad para su mantenimiento y limpieza.
 
 <p align="center">
@@ -286,6 +301,7 @@ Se logra golpeando la piedra con una herramienta llamada bujarda (martillo con p
 </p>
 
 5. **Apiconado**
+
 Se realiza mediante la aplicación de golpes con una pica, un puntero o herramienta similar sobre la superficie de la piedra, sobre la que se producen unas incisiones alargadas y paralelas en una misma dirección, creando marcas lineales o punteadas. Suele ser un trabajo manual, aunque se puede efectuar con herramienta mecánica. El acabado es rugoso, con relieves marcados y aspecto rústico, utilizado para resaltar la textura natural y aumentar la resistencia al deslizamiento. Su uso es destacado para piedra de sillería en fachadas o incluso para pavimentos exteriores de aspecto rústico.
 
 <p align="center">
@@ -306,6 +322,7 @@ Consiste en fracturar la piedra manualmente con herramientas como cinceles, punt
 </p>
 
 7. **Flameado**
+
 Se aplica una llama a alta temperatura sobre la piedra (generalmente granito), provocando una expansión térmica brusca que desprende pequeñas partículas. Normalmente el proceso se realiza de forma automatizada en cámaras especiales cuyo componente principal es un soplete móvil de oxipropano que lanza una llama a temperaturas de unos 2500ºC. El resultado es una superficie rugosa, vitrificada y antideslizante, adecuada para exteriores y zonas de tránsito. No se recomienda para interiores ya que por su rugosidad no se favorece su limpieza y mantenimiento. 
 
 <p align="center">
@@ -316,6 +333,7 @@ Se aplica una llama a alta temperatura sobre la piedra (generalmente granito), p
 </p>
 
 8. **Arenado**
+
 Consiste en proyectar arena de sílice o corindón, un material abrasivo impulsado a alta velocidad y con presión variable por aire sobre la piedra. El arenado limpia la superficie y genera una textura mate, fina y ligeramente rugosa, con orificios más pequeños que con el abujardado, resaltando el color natural y mejorando la adherencia para posteriores tratamientos o aplicaciones. La profundidad de los orificios puede variar según la presión de aire ejercida y la granulometría proyectada. Se recomienda tanto para interior como para exterior, aunque no está especialmente indicado para pavimentos interiores por su rugosidad.
 
 <p align="center">
@@ -326,12 +344,15 @@ Consiste en proyectar arena de sílice o corindón, un material abrasivo impulsa
 </p>
 
 9. **Chorreado**
+
 Técnica similar al arenado, pero puede emplear distintos tipos de abrasivos (arena, microesferas, etc.) y se utiliza tanto para limpiar como para texturizar la piedra. El chorreado elimina suciedad, óxidos o restos de otros procesos, dejando la superficie lista para otros tratamientos o con una textura mate y uniforme.
 
 11. **Granallado**
+
 Proceso similar al arenado, pero en este caso se proyectan abrasivos metálicos (granalla) a alta velocidad y presión variable sobre la piedra, generando una textura rugosa fina y uniforme, con propiedades antideslizantes y que realza el tono natural del material. La rugosidad se puede controlar según la fuerza de proyección.
 
 12. **Envejecido**
+
 Busca reproducir el desgaste natural que el paso del tiempo y los agentes ambientales provocan en la piedra. Se puede lograr por medios mecánicos (cepillos abrasivos que de forma rotatoria generan ondulaciones y relieves imitando la erosión natural), dejando en superficie las partes más duras o los fósiles. El resultado es una textura sedosa, con relieves suaves y aspecto antiguo. Su uso más común es tanto para interiores como para exteriores, en este último caso se deberá comprobar que el grado de resbaladicidad es el adecuado.
 
 <p align="center">
@@ -346,30 +367,44 @@ A diferencia de los tratamientos físicos, que actúan por medios mecánicos o t
 Entre los **tratamientos químico**s más destacados podemos encontrar: 
 
 1. **Resinado**
+
 Consiste en la aplicación de resinas líquidas (generalmente epoxi o de poliéster insaturado) sobre la superficie de la piedra natural para que penetren en su porosidad y, tras su curado, formen una fase continua que consolida y refuerza mecánicamente la piedra, evitando roturas y fracturas, y mejorando la cohesión superficial.
 Este tipo de tratamiento es muy empleado en piedras que presentan muchos poros o cavidades, como sería el caso del travertino, aunque se pueden utilizar en cualquier tipo de piedra que lo requiera.
 
 2. **Consolidado**
+
 Es el tratamiento mediante el cual se aplica un producto (resina: inorgánica, órgano silícica u orgánica) que penetra en profundidad en la piedra y mejora su cohesión interna, uniendo los granos minerales sueltos y adhiriendo las capas alteradas al sustrato sano, restaurando así las propiedades mecánicas de la piedra.
 El proceso es muy similar al del resinado, difiriendo de este en los tiempos de curado, ya que los productos de consolidado deben penetrar al máximo en el interior de la pieza y no solo quedar en la superficie. 
 Se emplea principalmente para reforzar piezas de piedras porosas con características mecánicas bajas como las areniscas y algunas calizas.
+
 3. **Enmallado**
+
 Consiste en adherir una malla (generalmente de fibra de vidrio) en la cara posterior de la piedra, normalmente acompañada de resina, para reforzar piezas frágiles o con fisuras, proporcionando mayor resistencia a la manipulación, transporte y almacenaje. 
 Este tratamiento se emplea principalmente para el refuerzo y reparación de tableros agrietados, con tendencia a fracturarse o de materiales blandos como algunos mármoles, permitiendo reducir espesores en los productos finales y por tanto, en el peso. 
+
 4. **Enmasillado**
+
 Es la aplicación de una masilla (a base de resinas, epóxicas o de poliéster) sobre la superficie de la piedra para rellenar poros, grietas, fisuras o pequeños defectos, logrando una superficie más homogénea y mejorando el acabado estético y funcional.
 A diferencia de los tratamientos anteriores, este tratamiento principalmente se aplica de forma manual y puntual para cubrir defectos localizados de la piedra. En este caso para que las reparaciones queden disimuladas se suelen utilizar masillas transparentes, de diferentes colores o de color neutro. Se utilizan endurecedores/catalizadores para acelerar el proceso con tiempo de catálisis corto.
+
 5. **Coloreado/Tintado**
+
 Se refiere al proceso de aplicar tintes o pigmentos sobre la superficie de la piedra natural para modificar o intensificar su color y/o disimular manchas, vetas y otros efectos de coloración de la piedra natural, ya sea por motivos estéticos o para igualar tonalidades. 
 Para que el tinte penetre en los microporos de la piedra esta debe estar totalmente seca, para ello se pasa previamente por hornos de secado. Posteriormente el tinte puede aplicarse mediante brocha, rodillo, esponja o pistola, sin necesidad de inmersión. Una vez el producto se ha secado, la superficie se somete a un cepillado que elimina el excedente del producto, eliminando el aspecto artificial de una superficie pintada.
 El efecto del coloreado y tintado no es permanente, pierde luminosidad con el tiempo, por lo que las piezas tintadas requieren de un mantenimiento periódico.
+
 6. **Envejecido químico**
+
 Consiste en la aplicación de productos químicos que reaccionan con la superficie de la piedra para modificar su textura y aspecto, simulando el desgaste natural producido por el paso del tiempo y los agentes meteorológicos, simulando un aspecto de piedra antigua y desgastada.
 Este tratamiento se realiza mediante tratamientos químicos con un ph muy ácido y reacción muy rápida que actúan en la cara superficial de la piedra agrandando el poro. Este tratamiento genera una textura ligeramente rugosa, aportando un aspecto semejante al producido por la alteración del tiempo y los agentes atmosféricos, dando un aspecto envejecido. Con ello puede aumentar la rugosidad y conferir un efecto antideslizante, además de matizar el brillo superficial.
+
 7. **Envelopado**
+
 El proceso de envelopado consiste en la aplicación de un tratamiento o recubrimiento integral sobre un bloque de piedra natural antes de su corte. Este procedimiento se lleva a cabo mediante la colocación de una malla, generalmente envuelta en resina, que se adhiere a la superficie del bloque. Los productos empleados en este tratamiento no penetran en la estructura interna del material, sino que permanecen en la capa superficial, formando una barrera física —visible o invisible, según el tipo de recubrimiento—. 
 El objetivo principal es proteger y reforzar el bloque de piedra durante el proceso de corte, permitiendo así la obtención de piezas más delgadas y manejables sin que se produzcan roturas indeseadas. De este modo, se optimiza tanto el rendimiento como la versatilidad de la piedra natural, ampliando sus posibilidades de uso en diferentes aplicaciones.
+
 8. **Hidrofugado y Oleo-repelentes**
+
 El **hidrofugado** es la aplicación de productos hidrofugantes que protegen la piedra natural frente a la penetración de agua y humedad, sin alterar su aspecto ni sus propiedades físicas. Forman una capa superficial (no película), generalmente transparente, que limita el acceso del agua al interior del material, al rellenar parte de los poros, mientras que da a la superficie del material cualidades hidro-repelentes. Este tratamiento ayuda a prevenir manchas, eflorescencias y daños por heladas, manteniendo la calidad y durabilidad del material.
 Los **óleo-repelentes** son productos que se emplean para proteger las superficies absorbentes contra sustancias oleosas, resguardando a la piedra contra derrames de cafés, aceites, agua, zumo, pinturas, etc.
 Los óleo-repelentes limitan la absorción de la superficie frente a derrames. Al evitar que la sustancia penetre en los poros, facilita su eliminación y limpieza. Su principio de acción es similar al de los hidrofugantes, si bien su acción protectora es superior. Se emplea principalmente para proteger las superficies en aquellas aplicaciones en las cuales la piedra va a estar sometida a la acción de estos elementos, principalmente encimeras de cocina y similares.
@@ -525,14 +560,17 @@ El primer paso fundamental es la **identificación de las fases de desarrollo**,
 Para asegurar el control temporal y evitar omisiones, es imprescindible crear un diagrama de Gantt que detalle la duración y la secuencia de cada etapa, acompañado de un checklist de hitos críticos que sirva como guía de avance y control.
 
 1.	**Fase de estudio y preparación del proyecto**
+
 En la fase de extracción en cantera, la gestión documental comienza con la **selección precisa de los bloques**, basándose en un estudio técnico previo que determine el volumen exacto necesario para el proyecto, evitando así excedentes y desperdicios.
 Se debe elaborar un informe detallado de los bloques seleccionados, incluyendo fotografías, medidas exactas y un mapa de la cantera que indique la ubicación de cada bloque asignado. Este informe debe también documentar la ausencia de vetas o fallos que puedan comprometer la calidad de las piezas finales.
 Una vez seleccionados los bloques, se procede a la **aprobación de muestras representativas**. Antes de iniciar el corte masivo, el cliente debe aprobar el rango de color y textura de la piedra. Para ello, se preparan muestras físicas que deben ser firmadas y registradas por el cliente, asegurando así que las expectativas de diseño y tonalidad quedan perfectamente documentadas y aceptadas.
 
 2.	**Fase técnica y de planificación**
+
 El siguiente paso es la **planificación del suministr**o. Es fundamental coordinar las entregas con la obra para no saturar la producción ni provocar retrasos en la construcción. Se debe generar un calendario de entregas ajustado a la capacidad productiva y a las necesidades de la obra, quedando todo registrado y validado documentalmente para evitar malentendidos y asegurar la trazabilidad de cada lote.
 
 3.	**Fase de producción y control**
+
 En la integración del proyecto en la **planificación del taller de corte**, la documentación juega un papel clave para optimizar los cortes y minimizar los desperdicios. Utilizando software de diseño especializado, se generan planos de corte optimizados y se elaboran instrucciones precisas para las máquinas (PLC, CNC, hilo diamantado, etc), todo ello archivado y validado para consulta y seguimiento.
 Cada lote de producción se gestiona mediante una **Orden de Trabajo (O.T.**), que debe incluir:
     - Número de lote 
@@ -543,12 +581,30 @@ Cada lote de producción se gestiona mediante una **Orden de Trabajo (O.T.**), q
     Esta documentación es esencial para garantizar que cada pieza se fabrica conforme a requisitos técnicos y estéticos pactados con el cliente.
 Durante la producción de las O.T., se lleva a cabo el **corte y elaboración de la piedra**. Aquí es donde el proyecto cobra vida. Se deben registrar diariamente los tiempos de máquina y operarios, así como cualquier incidencia que pueda surgir (roturas, desviaciones, etc.). Se recomienda complementar este registro con fotografías de progreso para facilitar el seguimiento visual y la resolución de incidencias.
 Se ejecuta en el taller siguiendo estos pasos:
-    - **Preparación de máquinas:** Ajustar cortadoras CNC, puentes de hilo diamantado, etc.
-    - **Corte primario:** Extraer las piezas brutas de los bloques.
-    - **Acabados:** Pulido, canteado, tratamientos superficiales (hidrofugado, resinas).
-    - **Registro diario de producción** (máquinas, operarios, tiempos).
-    - **Fotos de progreso** (para seguimiento visual).
-    - **Parte de incidencias** (si una pieza se rompe o hay desviaciones).
+
+    - **Preparación de máquinas:** 
+
+    Ajustar cortadoras CNC, puentes de hilo diamantado, etc.
+
+    - **Corte primario:** 
+    
+    Extraer las piezas brutas de los bloques.
+
+    - **Acabados:**
+    
+     Pulido, canteado, tratamientos superficiales (hidrofugado, resinas).
+
+    - **Registro diario de producción** 
+    
+    (máquinas, operarios, tiempos).
+
+    - **Fotos de progreso** 
+    
+    (para seguimiento visual).
+
+    - **Parte de incidencias** 
+    
+    (si una pieza se rompe o hay desviaciones).
 	  
     **Inspección de calidad interna**
     El control de calidad interna es un proceso continuo y documentado, realizado de forma aleatoria durante la producción y no al final de la misma. Se revisan:
@@ -568,6 +624,7 @@ Se ejecuta en el taller siguiendo estos pasos:
 
 
 4.	**Fase de embalaje, expedición y entrega**
+
 La definición del embalaje también requiere una gestión documental específica. Cada O.T. debe incluir instrucciones detalladas sobre la protección y el etiquetado de los pallets, asegurando su protección para que el material llegue en perfectas condiciones a su destino y que cada lote sea fácilmente identificable y rastreable.
 El suministro a obra se realiza conforme al planning establecido, actualizando los planos de obra para reflejar las partes ya suministradas y las pendientes de entrega. 
 **Ejemplo:** Entrega Nº 456 – Proyecto "Hotel Costa Blanca"
@@ -577,6 +634,7 @@ El suministro a obra se realiza conforme al planning establecido, actualizando l
     Cada envío va acompañado de un **albarán de entrega con el número de lote y referencia**, así como una hoja de ruta detallada que incluye el itinerario y los contactos de emergencia.
 
 5.	**Fase de instalación y cierre**
+
 Durante la entrega e instalación en obra, un **técnico especializado supervisa la recepción** y el correcto almacenamiento del material, y la correcta instalación del material, asegurando que: 
     - **En la descarga:** Que no haya golpes.
     - **En el almacenamiento en obra:** El acopio del material se descargue de manera que cuando se tenga que instalar las piezas sea un proceso ágil y correlativo y no se tenga que despaletizar todo el palet para poder encontrar una pieza.

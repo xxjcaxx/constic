@@ -40,8 +40,8 @@ Ordoñez Puime</p>
 Para el trabajo de la piedra, además de requerir maquinaria especializada, también se requiere un **profundo conocimiento de las propiedades físicas y estéticas de cada tipo de piedra** para poder obtener el máximo provecho de cada una y poder utilizarla de la forma más adecuada posible.
 
 La clasificación de la piedra natural está basada principalmente en función de su **naturaleza geológica**. Según esta, **las rocas ornamentales pueden clasificarse en**:
-- **Rocas ígneas:** son las formadas por el enfriamiento y la solidificación del magma. Generalmente son extremadamente duras, por lo que su trabajabilidad requiere de equipos muy robustos. Hoy en día se utilizan herramientas con elementos diamantados o discos con abrasivos duros como el corindón. Este tipo de piedra se suele aplicar principalmente en fachadas, pavimentos u ornamentación.
-Como ejemplo están el granito, la pumita, la diorita o la obsidiana.
+- **Rocas ígneas:** son las formadas por el **enfriamiento y la solidificación del magma**. Generalmente son extremadamente duras, por lo que su trabajabilidad requiere de equipos muy robustos. Hoy en día se utilizan herramientas con elementos diamantados o discos con abrasivos duros como el corindón. Este tipo de piedra se suele aplicar principalmente en **fachadas, pavimentos u ornamentación**.
+Como ejemplo están el **granito, la pumita, la diorita o la obsidiana**.
 
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/Imaxes_tema_1/T01-I02.png"/>
@@ -264,19 +264,21 @@ Antes de iniciar cualquier tipo de corte en la bancada, se llevan a cabo una ser
 - **Identificar el macizo:** Los geólogos analizarán las características del yacimiento (fracturación natural, alteraciones, reservas, etc.) y del granito a extraer (propiedades físico-mecánicas, composición química y mineralógica). Para ello, realizarán sondeos y extraerán testigos con el fin de evaluar parámetros como dureza, color y pureza del material.
 - **Limpiar la zona:** Se realizará un desmonte previo con excavadoras para la eliminación de material estéril y cobertura vegetal, con el objetivo de dejar al descubierto los frentes de explotación. Estos pueden presentarse en una única cota o disponerse en configuración escalonada.
 - **Provisión de accesos:** La configuración de los accesos en cantera debe responder a dos parámetros fundamentales: **pendiente y anchura**.
-La **pendiente** máxima admisible será del 20% (equivalente a 11.3°). Esta pendiente no es arbitraria, sino que deriva de estudios sobre la capacidad de frenado de maquinaria pesada cargada en condiciones adversas. Esta inclinación garantiza que los vehículos puedan detenerse con seguridad incluso con el 80% de su carga máxima.
-La **anchura** se calcula mediante la siguiente fórmula:
-**Ancho total** = Ancho de vía máquina  
-        + 2 m (margen operativo)  
-        + 2 m (arcén de seguridad)
+
+    La **pendiente** máxima admisible será del 20% (equivalente a 11.3°). Esta pendiente no es arbitraria, sino que deriva de estudios sobre la capacidad de frenado de maquinaria pesada cargada en condiciones adversas. Esta inclinación garantiza que los vehículos puedan detenerse con seguridad incluso con el 80% de su carga máxima.
+
+    La **anchura** se calcula mediante la siguiente fórmula:
+    **Ancho total** = Ancho de vía máquina + 2 m (margen operativo) + 2 m (arcén de seguridad)
 
     Este margen considera:
     - La oscilación lateral de la carga durante el transporte
     - El espacio necesario para maniobras de emergencia
     - La visibilidad periférica del operario
-La superficie de rodadura requiere especial atención en su diseño. El perfil transversal debe presentar una inclinación máxima del 2-3% hacia los laterales para facilitar el drenaje, evitando acumulaciones de agua que reduzcan la fricción.
-Se recomienda emplear zahorra natural compactada (tamaño máximo de árido 40mm) con un coeficiente de rozamiento mínimo de 0.45 en condiciones húmedas.
-La estructura típica de las capas viene siendo:
+    La superficie de rodadura requiere especial atención en su diseño. El perfil transversal debe presentar una inclinación máxima del 2-3% hacia los laterales para facilitar el drenaje, evitando acumulaciones de agua que reduzcan la fricción.
+
+    Se recomienda emplear zahorra natural compactada (tamaño máximo de árido 40mm) con un coeficiente de rozamiento mínimo de 0.45 en condiciones húmedas.
+
+    La estructura típica de las capas viene siendo:
     - **Base:** 30cm de material seleccionado
     - **Capa intermedia:** 20cm de mezcla granular
     - **Capa de rodadura:** 15cm de material drenante
@@ -286,6 +288,7 @@ La estructura típica de las capas viene siendo:
 #### 1.3.5.3.	CICLO CLÁSICO DE PRODUCCIÓN
 Como ya se ha avanzado anteriormente, se trata de realizar operaciones elementales que se realizan de forma secuencial. Básicamente es el corte y manipulación de bloques a volúmenes cada vez más reducidos. 
 El ciclo clásico comprende los siguientes pasos:
+
 **1º Independización primaria del macizo rocoso.**
 Se aísla un gran bloque de la masa principal de roca, utilizando tecnologías como el hilo diamantado, perforación, voladuras controladas, etc, según el tipo de piedra y la morfología del yacimiento. 
 El bloque primario suele tener forma de paralelepípedo y dimensiones conformes con la tecnología de corte a utilizar.
@@ -467,7 +470,7 @@ Se ejecuta en el vértice formado por la intersección de los planos de escuadra
 </p>
 
  <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
-Foto 25. Fuente propia
+Foto 25. Fuente: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-rocas-ornamentales/ y fuente propia
 </p>
 
 Cuando no se produce el encuentro entre perforaciones se introduce una sonda de inspección en ambas perforaciones con un localizador electromagnético para determinar el punto exacto de máxima aproximación, el ángulo y dirección de desviación y la profundidad del problema para garantizar ese encuentro.
@@ -500,6 +503,8 @@ Para ello primeramente se debe introducir el hilo por el agujero guía superior 
 Con una varilla rígida con gancho en su extremo, se engancha el extremo del cordel ubicado al final de la perforación. Luego, se tira de él para sacarlo al exterior. 
 El proceso se repite, en el otro orificio perpendicular de la base de la bancada, se vuelve a introducir la varilla rígida para enganchar el cordel que desciende del orificio superior. Una vez enganchado, se tira de él hasta sacarlo también al exterior.
 Esto se hace par conseguir enhebrar el hilo diamantado y así poder llevar a cabo tanto el corte de plomo como el de norte.
+
+<pre>        **Corte de Norte**                                          **Corte de Plomo**</pre>
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 28 .png"/>
 </p>
@@ -713,7 +718,8 @@ Foto 46. Fuente propia y https://oa.upm.es/21840/1/L3_DISE_ROCA_ORNAMENTAL_07112
 - **Recuadre o escuadrado final del bloque**
 Los bloques obtenidos deben alcanzar las dimensiones y forma adecuadas para su comercialización, que puede ser **directa**, si el escuadrado de las caras fuera correcto, o precisa de un **perfilado definitivo**, en función de las calidades de la roca y la tolerancia final exigida por el mercado. 
 La calidad del acabado en las caras del bloque final depende del correcto alineado de la perforación, así como de la separación y diámetro de los barrenos, existiendo en cualquier caso imperfecciones derivadas del sistema en sí mismo que pueden suponer unas pérdidas importantes de material útil.
-Este escuadrado se obtiene mediante perforación y acuñado (empleo de cuñas) y sin utilización alguna de explosivo, consiguiendo una profundidad variable de los barrenos en función de la cara en la que se actúe y una gran precisión en su alineamiento para una perfecto escuadre. 
+Este escuadrado se obtiene mediante perforación y acuñado (empleo de cuñas) y sin utilización alguna de explosivo, consiguiendo una profundidad variable de los barrenos en función de la cara en la que se actúe y una gran precisión en su alineamiento para una perfecto escuadre.
+
 Bloques escuadrados
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 47 .jpg"/>
@@ -725,11 +731,16 @@ Foto 47. Fuente propia
 
 ## 1.4.	 MAQUINARIA
 En una cantera de piedra natural, la maquinaria a utilizar siempre suele ser una combinación de varias técnicas y equipos y sobre todo en una explotación moderna, donde los empresarios tratan de adaptar la maquinaria a la naturaleza de la roca y a las distintas fases del proceso y que esta sea ideal para los diferentes procesos como son el arranque, el corte, la subdivisión, la carga e incluso el transporte.
+
 La correcta selección de equipos permite optimizar costes, mejorar la seguridad y obtener bloques de mayor calidad y valor comercial.
+
 El avance tecnológico, especialmente a partir de la incorporación del hilo diamantado y equipos de corte automáticos, ha permitido aumentar la productividad y reducir el impacto ambiental y los riesgos laborales, consolidando estos sistemas como estándar en la industria de la piedra natural.
-Por otro lado, la selección y dimensionamiento de la maquinaria en una cantera dependen fundamentalmente de las características geomecánicas de la roca (su abrasividad, su dureza, la resistencia a compresión, la tenacidad y o la porosidad), los ritmos de producción deseados y el grado de mecanización que se pretende alcanzar. 
+
+Por otro lado, la selección y dimensionamiento de la maquinaria en una cantera dependen fundamentalmente de las características geomecánicas de la roca (su abrasividad, su dureza, la resistencia a compresión, la tenacidad y o la porosidad), los ritmos de producción deseados y el grado de mecanización que se pretende alcanzar.
+
 A continuación, se describen de forma muy genérica los principales equipos de trabajo para poder llevar a cabo el ciclo productivo de una cantera de piedra natural.
 1. **Equipos de Arranque y Corte**
+
 **Perforadoras hidráulicas o neumáticas:**
 Las perforadoras hidráulicas y neumáticas son equipos esenciales en los trabajos de cantera de piedra natural, especialmente en la fase de extracción y preparación de bloques. Ambas tecnologías se emplean para realizar perforaciones en la roca, que pueden destinarse a la inserción de explosivos (voladuras controladas), a la colocación de cuñas para la fragmentación controlada o como paso previo para el corte con hilo diamantado.
 
@@ -742,6 +753,7 @@ Foto 48. Fuente propia y https://oa.upm.es/21840/1/L3_DISE_ROCA_ORNAMENTAL_07112
 </p>
 
 Las perforadoras hidráulicas funcionan mediante un sistema de presión de aceite que acciona el mecanismo de percusión y rotación. Destacan por su gran potencia, precisión y capacidad para realizar perforaciones profundas y de mayor diámetro.
+
 Por su parte, las perforadoras neumáticas utilizan aire comprimido para accionar el martillo y el sistema de rotación. Son equipos robustos, versátiles y fáciles de mantener, adecuados para trabajos en los que se requiere movilidad y acceso a zonas menos accesibles. Aunque suelen tener menor potencia que las hidráulicas, su sencillez y adaptabilidad las hacen muy útiles en canteras de menor tamaño o en operaciones auxiliares.
 
 **Equipos de corte con hilo diamantado.** 
@@ -758,10 +770,14 @@ Foto 49. Fuente: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-ca
 rocas-ornamentales/ y http://www.glsunshine.com/es/show_hilosdiamantados_54.html
 </p>
 
-Existen diferentes máquinas para poder realizar este trabajo. Las más antiguas están formados por un grupo motor, con accionamiento eléctrico, y con potencia entre 30-50 C.V., con su correspondiente reductor que actúa sobre la polea conductora del cable y que va montado sobre un chasis móvil sobre raíles. 
-Un conjunto guiador compuesto por dos carriles o vías sobre los que se desliza o mueve el sistema de accionamiento, y con una carrera de unos 6 m de desplazamiento, que se puede suplementar para su alargamiento paralelo al banco. 
+Existen diferentes máquinas para poder realizar este trabajo. Las más antiguas están formados por un grupo motor, con accionamiento eléctrico, y con potencia entre 30-50 C.V., con su correspondiente reductor que actúa sobre la polea conductora del cable y que va montado sobre un chasis móvil sobre raíles.
+
+Un conjunto guiador compuesto por dos carriles o vías sobre los que se desliza o mueve el sistema de accionamiento, y con una carrera de unos 6 m de desplazamiento, que se puede suplementar para su alargamiento paralelo al banco.
+
 Unos sistemas automáticos de control electrónicos de arranque, velocidad y tensión del cable, de paradas por rotura o final de carrera.
+
 Con este tipo de máquinas se deberá tener muy en cuenta en nivelado de los raíles, pues una pequeña desnivelación en los mismos hará que la línea de corte se desvíe de forma considerable en la vertical de corte en la piedra.
+
 Máquinas de corte con hilo diamantado
 
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
@@ -795,8 +811,7 @@ Con este sistema es necesario disponer de unas alturas de banco muy limitadas po
  (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
-La rozadora consta básicamente de un brazo accionado, móvil y orientable, sobre el que se desplaza una cadena provista de unas picas como elementos de corte y de desgaste. El sistema de  
-accionamiento del brazo es del tipo electro-hidráulico con unas potencias entre 10 y 60 Kw, y todo el conjunto se desliza sobre carriles en la dirección del corte con velocidades de avance de 2 a 10 cm/mín. y con la posibilidad de desplazarse por pendientes máximas de 15º.
+La rozadora consta básicamente de un brazo accionado, móvil y orientable, sobre el que se desplaza una cadena provista de unas picas como elementos de corte y de desgaste. El sistema de accionamiento del brazo es del tipo electro-hidráulico con unas potencias entre 10 y 60 Kw, y todo el conjunto se desliza sobre carriles en la dirección del corte con velocidades de avance de 2 a 10 cm/mín. y con la posibilidad de desplazarse por pendientes máximas de 15º.
 El brazo es orientable para poder realizar los cortes verticales y horizontales, con una longitud variable entre 1,5 y 3 m. Sobre el perímetro del brazo se desplaza la cadena que arrastra las picas, de un material altamente resistente.
 
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
@@ -832,8 +847,10 @@ Foto 55. Fuentes: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-c
 </p>
 
 **Utilización de cuñas manuales e hidráulicas**
-Las cuñas, tanto manuales como hidráulicas, son herramientas auxiliares empleadas para la separación controlada de bloques a partir de la roca matriz. 
+Las cuñas, tanto manuales como hidráulicas, son herramientas auxiliares empleadas para la separación controlada de bloques a partir de la roca matriz.
+
 El procedimiento consiste en perforar una serie de orificios alineados en la piedra, introducir las cuñas y aplicar presión, ya sea manualmente o mediante sistemas hidráulicos. Esta técnica permite una división precisa y controlada, minimizando la generación de fisuras indeseadas y optimizando el aprovechamiento del material, especialmente en etapas de subdivisión de bloques grandes.
+
 Este sistema se debe aplicar fundamentalmente sobre las rocas de mayor dureza y abrasividad, del tipo granítica. Esta maquinaria es utilizada tanto para realizar el corte primario como el secundario en los planchones de roca.
 
 <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
@@ -874,6 +891,7 @@ https://nociones-construccion.blogspot.com/p/extraccion-de-la-piedra.html
 
 
 2. **Equipos de Carga y Manipulación**
+
     - **Excavadoras sobre orugas:**
 Las excavadoras sobre orugas son esenciales para el movimiento de grandes bloques, la retirada de estériles y el acondicionamiento de los frentes de explotación. Su diseño robusto y su capacidad para trabajar en terrenos irregulares las hacen idóneas para el entorno de cantera. Además, pueden equiparse con implementos específicos, como martillos hidráulicos, cucharas o sistemas de empuje hidráulico (bench pusher), aumentando su versatilidad y productividad.
 
@@ -897,6 +915,7 @@ Foto 60. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas prevent
 </p>
 
 3. **Equipos de Transporte Interno**
+
     - **Camiones rígidos o dúmperes articulados:**
 El transporte interno de bloques y estériles dentro de la cantera se realiza mediante camiones rígidos o dúmperes articulados, diseñados para soportar grandes cargas y operar en terrenos accidentados. Estos vehículos permiten trasladar el material desde el frente de extracción hasta la planta de procesamiento o las zonas de acopio, garantizando la continuidad del flujo de producción y minimizando los tiempos de espera.
 
@@ -909,6 +928,7 @@ Foto 61. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas prevent
 </p>
 
 4. **Equipos Auxiliares**
+
     - **Compresores y generadores eléctricos:**
 Los compresores suministran aire comprimido para alimentar equipos neumáticos, como perforadoras y martillos, mientras que los generadores eléctricos proporcionan energía en áreas de la cantera donde no hay acceso a la red eléctrica. Ambos equipos son fundamentales para asegurar la operatividad continua de la maquinaria y la autonomía de los equipos móviles.
 
@@ -917,10 +937,14 @@ En definitiva, la elección y el correcto uso de la maquinaria en una cantera de
 
 ## 1.5.	 SEGURIDAD Y SALUD
 La explotación de una cantera de piedra natural es una actividad industrial que implica la manipulación de grandes volúmenes de material, el uso de maquinaria pesada y la presencia de condiciones geológicas variables. Este entorno, presenta riesgos laborales específicos que, si no se gestionan adecuadamente, pueden derivar en accidentes muy graves. Por ello, la seguridad y salud de los trabajadores debe ser una prioridad absoluta, mediante **la identificación, evaluación y control de los peligros** asociados a cada fase del proceso extractivo.
-La normativa vigente, que incluye la Ley 31/1995 de Prevención de Riesgos Laborales, el RD 863/1985, Reglamento General de Normas Básicas de Seguridad Minera, o las Instrucciones Técnicas Complementarias (ITC), como la ITC 02.0.02 sobre protección frente a polvo y sílice cristalina respirable, supone el marco normativo específico que establece las obligaciones de las empresas y los derechos de los trabajadores y en base al cual se planifica y ejecuta la prevención en las canteras. 
+
+La normativa vigente, que incluye la Ley 31/1995 de Prevención de Riesgos Laborales, el RD 863/1985, Reglamento General de Normas Básicas de Seguridad Minera, o las Instrucciones Técnicas Complementarias (ITC), como la ITC 02.0.02 sobre protección frente a polvo y sílice cristalina respirable, supone el marco normativo específico que establece las obligaciones de las empresas y los derechos de los trabajadores y en base al cual se planifica y ejecuta la prevención en las canteras.
+
 Partiendo de cómo ha sido la evolución de los últimos años en el sector de las industrias extractivas, se puede llegar a la conclusión de que la prevención laboral ha adquirido un papel fundamental en este sector.
+
 - **Medidas Generales de Seguridad**
 Entre los riesgos más significativos en la cantera se encuentran las caídas o vuelcos de maquinaria en pendientes o terraplenes, los desprendimientos o caídas de bloques rocosos que pueden afectar a operarios, las caídas desde plataformas o equipos y los atrapamientos en elementos móviles o fijos. Estos riesgos, deben ser abordados mediante una evaluación exhaustiva, la implementación de medidas preventivas específicas y el uso obligatorio de equipos de protección individual adecuados.
+
 Para reducir la siniestralidad y proteger la salud, es imprescindible aplicar medidas preventivas generales, entre las que destacan:
     - **Evaluación y control de riesgos:** Identificación sistemática de peligros y adopción de medidas correctoras.
     - **Formación e información:** Capacitación continua de todo el personal sobre los riesgos y las normas de seguridad.
@@ -932,6 +956,7 @@ Para reducir la siniestralidad y proteger la salud, es imprescindible aplicar me
 - **Puestos de Trabajo Principales en la Cantera**
 A continuación, se exponen de forma general los principales riesgos y las medidas preventivas específicas según los principales puestos de trabajo en una cantera de piedra natural.
 1. **Operador de Maquinaria Pesada (palas, excavadoras, dúmperes)**
+
 **Riesgos principales:**
     - Caídas a distinto nivel al subir o bajar de la máquina, especialmente si no se mantienen los tres puntos de apoyo o se realiza la maniobra de espaldas a la escalera de acceso.
     - Vuelco de la máquina, habitualmente por trabajar cerca de taludes inestables, circular por pistas en mal estado o sobrecargar el equipo.
@@ -947,6 +972,7 @@ A continuación, se exponen de forma general los principales riesgos y las medid
 - Maniobras complejas siempre dirigidas por un señalista en caso de visibilidad reducida6.
 
 2. **Personal de Perforación y Voladuras**
+
 **Riesgos principales:**
     - Proyección de fragmentos de roca o herramientas, especialmente durante la perforación o la detonación de explosivos.
     - Caídas a distinto nivel al trabajar cerca de los bordes de los bancos o en zonas inestables.
@@ -962,6 +988,7 @@ A continuación, se exponen de forma general los principales riesgos y las medid
 - Ventilación adecuada y sistemas de supresión de polvo en las zonas de perforación.
 
 3. **Trabajadores de Corte y Manipulación de Bloques**
+
 **Riesgos principales:**
     - Cortes y atrapamientos durante el manejo de herramientas y maquinaria de corte, como el hilo diamantado o sierras.
     - Caída de objetos o bloques durante el izado, transporte o almacenamiento, especialmente si no se emplean técnicas adecuadas de amarre y elevación.
@@ -976,6 +1003,7 @@ A continuación, se exponen de forma general los principales riesgos y las medid
 - Delimitación y señalización de las áreas de manipulación y almacenamiento de bloques.
 
 5. **Peatones y Personal de Mantenimiento**
+
 **Riesgos principales:**
     - Atropellos o golpes con vehículos y maquinaria móvil, especialmente por circulación en zonas no autorizadas o falta de visibilidad.
     - Caídas al mismo o distinto nivel por superficies resbaladizas, inestables o mal iluminadas.
@@ -1005,14 +1033,17 @@ Foto 62 y 63. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas pr
 </p>
 
 Una correcta identificación de los riesgos y la aplicación rigurosa de estas medidas preventivas, tanto de forma individual como de forma general para cada puesto de trabajo es esencial para reducir la siniestralidad y garantizar un entorno seguro en la cantera de piedra natural. 
+
 Además, con una buena gestión de la seguridad no solo se protege la integridad física de los trabajadores, sino que también se optimiza la productividad y sostenibilidad de la explotación minera.
 
 ## 1.6.	CONTROL DE CALIDAD EN CANTERAS DE PIEDRA NATURAL
-El control de calidad en las canteras de piedra natural es un proceso técnico fundamental que abarca desde la selección del yacimiento hasta la clasificación final de los bloques, garantizando que el material extraído cumpla con los requisitos estéticos, mecánicos y funcionales que exige su posterior transformación, comercialización e instalación. 
+El control de calidad en las canteras de piedra natural es un proceso técnico fundamental que abarca desde la selección del yacimiento hasta la clasificación final de los bloques, garantizando que el material extraído cumpla con los requisitos estéticos, mecánicos y funcionales que exige su posterior transformación, comercialización e instalación.
+
 A diferencia de otros materiales industriales, la piedra natural presenta una variabilidad inherente, producto de su origen geológico. Esta singularidad, aunque es una de sus principales virtudes, requiere una sistematización rigurosa en el control de calidad desde su origen.
 
 ### 1.6.1.	Importancia del Control de Calidad en el Origen
 La variabilidad en tono, veteado, textura, grado de compactación, y presencia de discontinuidades (grietas, cavidades, inclusiones) hace necesario un control minucioso desde la cantera. No basta con cumplir normas técnicas como el marcado CE (obligatorio desde 2003 para la comercialización en Europa), sino que se debe verificar in situ que el material cumple con las especificaciones pactadas con el cliente o proyecto.
+
 El control de calidad en origen permite:
 - Evitar defectos estructurales o estéticos.
 - Asegurar homogeneidad dentro del lote.
@@ -1020,13 +1051,16 @@ El control de calidad en origen permite:
 - Prever la continuidad de suministro en grandes proyectos.
 
 ### 1.6.2.	Ubicación y selección de la zona de extracción
-Antes de iniciar la extracción, se realiza una caracterización geológica y petrográfica del yacimiento, mediante sondeos, ensayos, análisis de muestras y en la experiencia operativa de la explotación. 
+Antes de iniciar la extracción, se realiza una caracterización geológica y petrográfica del yacimiento, mediante sondeos, ensayos, análisis de muestras y en la experiencia operativa de la explotación.
+
 El objetivo es identificar áreas con características homogéneas y evitar zonas con fracturación excesiva, alteraciones químicas o variaciones indeseadas en color o estructura. Esta selección es clave para asegurar que los bloques extraídos cumplan con las especificaciones técnicas y estéticas pactadas con el cliente.
 ### 1.6.3.	Inspección de los frentes de cantera
 La inspección visual de los frentes de cantera es una tarea diaria y detallada que permite verificar que la extracción se realiza en la zona prevista y que las características del material se mantienen constantes, verificando que los frentes operativos de la extracción se están realizando desde la zona establecida y que no existen variaciones sustanciales respecto a las muestras aprobadas por el cliente.
+
 Se evalúa la homogeneidad cromática y textural, la ausencia de grietas visibles, la orientación del veteado (para proyectos donde se exige continuidad visual) y la presencia del nivel freático o zonas húmedas o alteradas que puedan afectar la calidad del bloque. Cualquier desviación respecto a las muestras de referencia debe ser detectada y corregida en esta fase.
 ### 1.6.4.	Marcado y etiquetado de bloques
-Cada bloque extraído debe ser identificado y etiquetado con un sistema que recoja información sobre el frente de extracción, la fecha, el número de bloque y, si es necesario, el sentido del corte o la veta. 
+Cada bloque extraído debe ser identificado y etiquetado con un sistema que recoja información sobre el frente de extracción, la fecha, el número de bloque y, si es necesario, el sentido del corte o la veta.
+
 Este sistema de trazabilidad es esencial para el seguimiento del material a lo largo de toda la cadena de suministro, desde la cantera hasta la obra, y permite gestionar reclamaciones o incidencias de forma eficiente.
 ### 1.6.5.	Ensayos físicos y mecánicos
 En función de las exigencias del proyecto, el control de calidad incluye la realización de ensayos normalizados donde se deben tomar muestras representativas para su análisis en laboratorio. Algunos de los ensayos más comunes son:
@@ -1039,7 +1073,9 @@ En función de las exigencias del proyecto, el control de calidad incluye la rea
 Estos ensayos se realizan conforme a normas UNE-EN específicas, y sus resultados determinan la idoneidad del material para cada uso (fachadas, pavimentos, revestimientos, etc.)
 ### 1.6.6.	Clasificación visual y preclasificación para fábrica
 El personal técnico realiza una clasificación visual de los bloques en cantera, agrupándolos por calidades (A, B, C…) o tonos según los criterios del proyecto o cliente. Se separan los bloques con defectos (grietas, manchas, alteraciones) y se organizan los lotes para optimizar el rendimiento en fábrica y facilitar la selección para cada aplicación. Una clasificación rigurosa reduce los desperdicios y mejora la eficiencia del proceso de transformación.
+
 **Rol del Consultor de Piedra Natural**
+
 El rol del consultor de piedra natural es fundamental en el control de calidad, especialmente en proyectos de alta exigencia estética o con grandes volúmenes de material. Este profesional, con amplia experiencia técnica en el sector, actúa como un asesor imparcial que acompaña al cliente, al fabricante y a la cantera durante todo el proceso. Su función principal es definir y validar los criterios de calidad específicos para cada proyecto, asegurando que el material extraído y suministrado cumpla con las expectativas estéticas, físicas y mecánicas establecidas
 
 
@@ -1054,11 +1090,14 @@ El rol del consultor de piedra natural es fundamental en el control de calidad, 
 
 El consultor verifica la calidad en origen mediante inspecciones en cantera, supervisa la clasificación y el etiquetado de los bloques, y aprueba los lotes antes de su transformación o instalación. Además, asesora en la elección del tipo de piedra más adecuado según las características del proyecto y las condiciones de uso, ayudando a anticipar posibles problemas durante la fabricación o la instalación. Su intervención reduce riesgos de reclamaciones, optimiza la gestión del suministro y garantiza la satisfacción final del cliente, aportando un valor añadido que contribuye a la excelencia técnica y estética del producto final.
 
-En resumen, el control de calidad en cantera no es un simple trámite administrativo, sino que es un proceso técnico esencial que abarca desde la caracterización del yacimiento hasta la entrega del bloque clasificado para asegurar que el producto final cumpla con las expectativas del cliente y las exigencias del proyecto. 
+En resumen, el control de calidad en cantera no es un simple trámite administrativo, sino que es un proceso técnico esencial que abarca desde la caracterización del yacimiento hasta la entrega del bloque clasificado para asegurar que el producto final cumpla con las expectativas del cliente y las exigencias del proyecto.
+
 Una gestión rigurosa y profesional en esta etapa inicial es la base para garantizar la excelencia del producto final, optimizar costes, evitar reclamaciones y garantizar el éxito de los proyectos que emplean piedra natural.
 
-# GLOSARIO:
+## GLOSARIO:
+
 **Terminología técnica en canteras gallegas**
+
 - **Tajo:** Zona concreta de trabajo en la cantera.
 - **Bancada:** Parte del frente de explotación de la cantera.
 - **Pastillón:** Bloque primario extraído de la bancada de aproximadamente 10m (Largo) × 10m (Alto) × 1.80m (Ancho) según la cantera.
@@ -1073,7 +1112,7 @@ Una gestión rigurosa y profesional en esta etapa inicial es la base para garant
 - **Barrena:** Broca con puntas de widia (carburo de tungsteno) o diamante industrial para cortar la piedra natural de entre 25 – 32 mm de diámetro.
 - **Escuadrar:** El escuadrado en perforación de piedra natural es la técnica utilizada para crear bloques rectangulares o cuadrados mediante perforaciones estratégicas, generalmente como paso previo al corte con hilo diamantado o para la extracción de bloques comerciales.
 
-# BIBLIOGRAFÍA 
+## BIBLIOGRAFÍA 
 - Ordoñez Puime A., & Tecnología e Investigación S.L. Asesoramiento. (2013). Recepción y almacenamiento del bloque de piedra natural. IEXD0108. Ic Editorial. 
 - Herrera Herbet, J. (2017). Explotaciones de cantera de roca ornamental (Presentación)”. UPM. Departamento de Ingeniería, Geología y Minería. Laboratorio de Tecnologías Mineras
 - Herrera Herbet, Juan (2007). Explotaciones de roca ornamental. Diseño de explotaciones y selección de maquinaria y equipos. UPM. Escuela superior de ingenieros de minas.
@@ -1081,3 +1120,15 @@ Una gestión rigurosa y profesional en esta etapa inicial es la base para garant
 - Instituto Valenciano de Seguridad y Salud en el Trabajo (INVASSAT). (2021). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 - Hita López, F. y Lozano del Amor, P. (2020). Hilo diamantado. Operador de maquinaria de corte en actividades de exterior. Divulgación de fichas de información y sensibilización para el fomento de la PRL por puesto de trabajo en la extracción y elaboración de la piedra natural. Murcia. España: MARSA y Centro Tecnológico del Mármol, Piedra y Materiales.
 
+## WEBGRAFÍA
+- https://www.diferenciador.com/tipos-de-rocas/
+- https://alborainternational.com/es/control-calidad-marmol-cantera-fabrica/
+- https://www.focuspiedra.com/estudio-destaca-la-importancia-combinar-tecnicas-geofisicas-la-exploracion-canteras-roca-ornamental/
+- https://grupimar.es/proceso-extraccion-cantera-granito/
+- https://clusterpiedra.com/la-piedra/proceso-de-fabricacion/
+- https://soprobel.net/proceso-de-extraccion-del-marmol/
+- https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-rocas-ornamentales/
+- https://siaia.apambiente.pt/AIADOC/AIA3303/aia_2_2019_p%20salgueirinha_parecer%20final_ca201991310202.pdf
+- https://www.prolaboral.com/es/blog/riesgos-laborales-cantera-marmol.html
+- https://alborainternational.com/es/control-calidad-marmol-cantera-fabrica/
+- https://alborainternational.com/es/consultoria-piedra-natural/
