@@ -17,11 +17,11 @@ esta aparente inmortalidad no exime a la piedra natural de los procesos de degra
 ambiental, el uso y la interacción con otros elementos. La creencia de que la piedra no necesita cuidado puede llevar
 a un deterioro prematuro que comprometa tanto su estética como su funcionalidad.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/1.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
  Fachada del Obradoiro. Catedral de Santiago de Compostela
  </p>
 
@@ -38,11 +38,11 @@ mantenimiento correctivo, por su parte, se enfoca en reparar daños existentes, 
 funcionalidad o estética de superficies ya afectadas. Ambos enfoques son complementarios y cruciales para la
 correcta conservación.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/2.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Obras de Restauración en la fachada del Obradoiro. Catedral de Santiago de Compostela.
  </p>
 
@@ -92,11 +92,11 @@ restaurativo), con el fin de asegurar su durabilidad, belleza y comportamiento a
 a cualquier elemento pétreo, ya sea en fachadas, pavimentos, interiores, exteriores, o elementos ornamentales,
 adaptando las técnicas a las características específicas del material, su ubicación y las patologías presentes.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/3.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Iglesia San Miguel de Ponteareas. Fachada con patología.
  </p>
 
@@ -159,11 +159,11 @@ Las propiedades propias de cada tipo de piedra determinan en gran medida su resi
     abrasión y a los agentes químicos. Las rocas sedimentarias como la caliza o arenisca, al ser más porosas y
     tener cementos más solubles, son más sensibles a la humedad, los ácidos y los ciclos hielo-deshielo. La
     resistencia mecánica a la compresión, flexión o abrasión varía enormemente entre tipos de piedra.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/4.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Alveolizacíon, piedra porosa.
  </p>
 
@@ -175,11 +175,11 @@ Alveolizacíon, piedra porosa.
     adhesivos, selladores o incluso estructuras de soporte (hormigón, metales) puede generar tensiones,
     manchas o reacciones indeseadas si los materiales no son compatibles. La presencia de sales solubles en
     morteros, por ejemplo, puede causar eflorescencias en la piedra.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/5.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Portal con reja metálica. Incompatibilidad de material
  </p>
 
@@ -198,11 +198,11 @@ El entorno donde se instala la piedra natural la somete a diversas agresiones:
     _(_ **_yesificación_** ***** ), que forma costras perjudiciales. Las partículas en suspensión (hollín, polvo) se depositan en
     la superficie, contribuyendo a la formación de costras negras y manchas.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/6.7.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Iglesia San Miguel de Ponteareas. Manchas en fachada y zócalo.
  </p>
 
@@ -214,11 +214,11 @@ Iglesia San Miguel de Ponteareas. Manchas en fachada y zócalo.
     material, retener humedad y facilitar la acción de otros agentes de deterioro. Las raíces de plantas
     superiores pueden causar daños mecánicos.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/8.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Balaustrada con patología biológica debido a la acción del tiempo (lluvia – humedad)
  </p>
 
@@ -230,11 +230,11 @@ La función y el contexto de la aplicación de la piedra natural también influy
     (comerciales, públicos), la fricción constante (por paso de personas, vehículos) causa un desgaste superficial
     que puede eliminar el acabado, generar polvo y reducir la resistencia al deslizamiento.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/9.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Desgaste de peldaños de escalera por uso.
  </p>
 
@@ -246,11 +246,11 @@ todo si es porosa o sensible.
 - **Vandalismo y daños accidentales** : Rayados, pintadas (graffiti), impactos o derrames accidentales (aceite
     de motor, bebidas) son causas de deterioro que requieren intervención correctiva.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/10.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Pintada Graffiti en la Catedral de Santiago. Fuente: https://www.elconfidencial.com/espana/galicia/2018-08-06/pintadas-catedral-santiago_1601773/
 
  </p>
@@ -259,11 +259,11 @@ Pintada Graffiti en la Catedral de Santiago. Fuente: https://www.elconfidencial.
     futuros problemas. Juntas mal ejecutadas permiten la entrada de agua. Un drenaje insuficiente en
     exteriores o fachadas facilita la acumulación de humedad. Un soporte inestable o incompatible puede causar fisuras o desprendimientos.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/11.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Patología funcional.
 
  </p>
@@ -287,11 +287,11 @@ Son aquellas causadas por acciones mecánicas o cambios físicos en el material 
     cambios bruscos de temperatura, o una instalación deficiente (soporte irregular, juntas inexistentes o
     inadecuadas). Comprometer la integridad de la pieza y permitir la entrada de agua.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/12.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Patología funcional.
 
  </p>
@@ -301,11 +301,11 @@ Patología funcional.
     de los ciclos hielo-deshielo en piedras porosas con humedad, o de la cristalización de sales solubles dentro
     de los poros ( **_criptoflorescencias*_** ), que ejercen presión interna al expandirse.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/13.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Descamación. Catedral de Tui.
  </p>
 
@@ -314,11 +314,11 @@ Descamación. Catedral de Tui.
     son visibles en la superficie como manchas blancas y pulverulentas. Las criptoflorescencias ocurren bajo la
     superficie, siendo más dañinas por la presión interna que generan, causando descamación o disgregación.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/14.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Disgregación mortero por eflorescencias. Fuente: http://pedrosalmeron.com/protocolos/restauracion-de-piezas-petreas-fracturadas-por-acciones-mecanicas/
  </p>
 
@@ -360,20 +360,20 @@ Son causadas por la colonización y actividad de seres vivos sobre o dentro de l
     fisuras) pueden penetrar en ella y ejercer presión a medida que crecen, expandiendo grietas y causando
     daños mecánicos significativos.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/15.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Patología biológica
  </p>
 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/16.jpg"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Patología biológica
  </p>
 
@@ -391,11 +391,11 @@ Surgen por defectos o fallos en el proceso o materiales de colocación.
     deberse a un rejuntado deficiente, la degradación de los sellados elásticos, fisuras en las piezas, o un diseño
     inadecuado que no facilita la evacuación del agua (sin goterones, pendientes incorrectas). El agua filtrada puede causar daños internos, moho, humedades y promover otras patologías en la piedra.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
     <img src="/materiales/img/fotosmantenimiento/17.webp"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
 Muralla de Lugo. Fuente: https://www.lavozdegalicia.es/album/lugo/2017/08/26/patologias-soluciones-cuatro-cubos-muralla-lugo/01101503770071976569193.htm
  </p>
 

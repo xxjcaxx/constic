@@ -4,6 +4,10 @@ sidebar_position: 2
 
 # 2.	Transformación de la piedra natural
 
+<div align="center" >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdlrtxLCQP8?si=37s2WWBUgB3au0Xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## 2.1. INTRODUCCIÓN
 La transformación de la piedra natural es un proceso fundamental en la industria de la construcción y el diseño, donde la materia prima extraída de la naturaleza se convierte en elementos arquitectónicos y decorativos de alto valor añadido. 
 Este proceso abarca desde la selección y extracción de la piedra en cantera, pasando por su corte, labrado y acabado, hasta su almacenamiento y comercialización, integrando tanto técnicas tradicionales como tecnologías de vanguardia.
@@ -29,28 +33,28 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
 
 **Telar tradicional.**
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
    <img src="/materiales/img/Imaxes_tema_2/T02-I01.png"/>
 </p>
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.museosregiondemurcia.es/documents/4106806/26279133/Ficha_PRL_telar_MMM/351ccab8-eab3-4696-86bb-0d46021a80cc?version=1.0">Fuente</a>
 </p>
 
 **Telar diamantado.**
 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px',}}>
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px', textAlign:'center'}}>
   <img src="/materiales/img/Imaxes_tema_2/T02-I02.png"/>
   <img src="/materiales/img/Imaxes_tema_2/T02-I03.png"/>
 </p>
 
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', display: 'flex', justifyContent: 'center', gap: '20px', textAlign:'center'}}>
   <a href="https://afepiedravillamayor.wordpress.com/2016/01/12/telares-tradicional-y-diamantado/">Fuente</a>
 </p>
 
 **Máquinas de monohilo diamantado.**
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I04.png"/>
 </p>
 
@@ -59,7 +63,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <img src="/materiales/img/Imaxes_tema_2/T02-I06.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.pedrini.it/it/prodotti/singlewire-jupiter-gs210?file=1&captchaerror=0#foto-video">Fuente</a>
 </p>
 
@@ -70,15 +74,15 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <img src="/materiales/img/Imaxes_tema_2/T02-I08.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.youtube.com/watch?v=9MPs93TirSI">Fuente</a>
 </p>
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I09.png"/>
 </p>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.pedrini.it/en/products/singlewire-jupiter-gs210">Fuente</a>
 </p>
 
@@ -90,7 +94,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <img src="/materiales/img/Imaxes_tema_2/T02-I12.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.mks.com.tr/es/product/block-cutter-st-1800-ysuper.html#">Fuente</a>
 </p>
 
@@ -99,7 +103,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <img src="/materiales/img/Imaxes_tema_2/T02-I14.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.tacoba.com/es/cortadoras/cortabloques/cortabloques-de-puente">Fuente 1</a>
 <a href="https://merisan.es/maquinaria-marmoles-y-granitos/">Fuente 2</a>
 </p>
@@ -111,7 +115,7 @@ A continuación se muestra un ejemplo de este tipo de maquinaria:
   <img src="/materiales/img/Imaxes_tema_2/T02-I16.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://spanish.alibaba.com/product-detail/China-Bridge-Multi-Blade-Stone-Block-1600404814006.html">Fuente</a>
 </p>
 
@@ -122,49 +126,49 @@ Aquí principalmente entran en juego otro tipo de máquinas como las **sierras d
 - **Sierra de puente:** es una máquina especializada utilizada principalmente para cortar losas y bloques de piedra natural. Está compuesta por una estructura fija en forma de puente que sostiene una sierra circular o disco de diamante, el cual se desplaza sobre la piedra para realizar cortes precisos y de alta calidad. 
 Este equipo permite realizar cortes rectos, curvos y biselados, y puede incluir sistemas CNC que automatizan y controlan la posición, velocidad y profundidad del corte, facilitando trabajos complejos como el mecanizado de encimeras, lápidas, elementos decorativos y piezas arquitectónicas. 
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I17.png"/>
 
 </p>
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://es.elephant-cnc.com/pro/5-axis-cnc-stone-cutting-bridge-saw-machine-with-camera/">Fuente</a>
 </p>
 
 - **Fresadora:** es una máquina CNC con un puente móvil que desplaza un cabezal con fresas rotativas, permitiendo tallar, perfilar y grabar en 3D materiales como mármol y granito con alta precisión. El número de ejes, generalmente entre tres y cinco, determina la complejidad de los trabajos, ya que más ejes permiten movimientos adicionales para crear formas y detalles más precisos. Su funcionamiento está controlado por un sistema automatizado que regula en tiempo real la posición, velocidad y profundidad de la herramienta, requiriendo programación previa. Estas fresadoras son especialmente valoradas en la industria funeraria y en la elaboración de piezas ornamentales que demandan grabados tridimensionales precisos.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I18.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.directindustry.es/prod/fooke-gmbh/product-160054-1617150.html">Fuente</a>
 </p>
 
 - **Torno:** es una máquina CNC diseñada para trabajar la piedra natural, permitiendo dar forma cilíndrica o realizar piezas torneadas mediante la rotación controlada de la piedra sobre su eje. Gracias a su sistema automatizado, el torno regula con precisión la velocidad y el avance de corte, facilitando la producción de columnas, balaustres, capiteles y otros elementos decorativos o arquitectónicos con acabados uniformes y detallados.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I19.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.promatic.es/productos/torno-promatic-thor-3000-nc-p1#gallery_dropzone_1-11">Fuente</a>
 </p>
 
 - **Robot de mecanizado**: es un sistema CNC, automatizado y programable, generalmente con hasta seis o incluso siete ejes, que permite realizar tareas complejas como corte, fresado, tallado, pulido y manipulación de piezas de piedra natural. Su versatilidad radica en la posibilidad de equipar distintos cabezales y herramientas especializadas, como fresas, discos de corte, sopletes para flameado, ventosas de manipulación o sistemas de resinado, adaptándose así a una amplia variedad de acabados y formas. 
 Gracias a este alto número de ejes y a la variedad de herramientas que puede portar, el robot es capaz de ejecutar operaciones tridimensionales de gran precisión, optimizando los procesos de producción, reduciendo tiempos de ciclo y permitiendo la fabricación eficiente de piezas ornamentales, arquitectónicas y funerarias con un elevado nivel de detalle y calidad.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I20.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://prussiani.com/en/brother-gabriel-marie-monks-of-the-most-blessed-virgin-mary-of-mount-carmel-meeteetse-usa/">Fuente</a>
 </p>
 
 - **WaterJet o corte por agua:** Estas máquinas son herramientas de corte de alta precisión que utilizan un chorro de agua a muy alta presión, mezclando con **abrasivos**, para cortar una gran variedad de materiales.
 Este tipo de maquinaria permite trabajar materiales delicados y duros, no solo piedra natural, sin causar estrés térmico, lo que reduce considerablemente el riesgo de provocar daños o deformaciones en la pieza trabajada.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I21.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://prussiani.com/en/brother-gabriel-marie-monks-of-the-most-blessed-virgin-mary-of-mount-carmel-meeteetse-usa/">Fuente</a>
 </p>
 
@@ -177,31 +181,31 @@ El motivo de añadirle abrasivos al agua es debido a que el simple chorro de agu
   <img src="/materiales/img/Imaxes_tema_2/T02-I23.png"/>
 </div>
 
- <p align="center">
+ <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.youtube.com/watch?v=bRoY-T10kdo">Fuente</a>
 </p>
 
 - **Centro de mecanizado:** es una máquina CNC avanzada diseñada para cortar, tallar, fresar, perforar, pulir y grabar piedras naturales o artificiales. Estas máquinas destacan por su alta precisión y eficiencia, ya que automatizan procesos complejos y permiten realizar diseños detallados y personalizados en piezas como encimeras, esculturas, monumentos y elementos arquitectónicos. 
 Equipadas con husillos potentes, sistemas de cambio automático de herramientas y software especializado, pueden trabajar con una amplia variedad de herramientas para adaptarse a diferentes operaciones y acabados. El control CNC garantiza la repetibilidad y exactitud en cada trabajo, optimizando el uso del material y reduciendo los residuos, lo que convierte a estos centros en equipos esenciales para la industria de la piedra natural.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I24.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://prussiani.com/es/pulidoras-para-planchas/mirror/">Fuente</a>
 </p>
 
 **En definitiva, las máquinas CNC** son equipos controlados por ordenación de forma que automatizan cortes, desbastados, tallados, grabados, etc. de la piedra natural. Con esta maquinaria se realizan trabajos de alto rendimiento, siendo un trabajo preciso, seguro y versátil, optimizando el rendimiento del material y reduciendo los desperdicios. 
 Su principal ventaja es la capacidad de ejecutar diseños complejos y personalizados con una precisión milimétrica, minimizando el error humano y optimizando el material utilizado. Esta tecnología está revolucionando el sector, permitiendo un volumen de trabajo antes impensable.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Diferentes herramientas de un centro de mecanizado
 </p>
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I25.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://prussiani.com/es/centros-de-trabajo/">Fuente</a>
 </p>
 
@@ -243,7 +247,7 @@ En los equipos automatizados de corte para piedra natural, como las cortadoras d
 
 Cabe destacar que independientemente de la máquina empleada en el corte de la piedra, las fases principales donde se agrupan las operaciones de corte son siempre las mismas. Organización del corte, realización del corte, análisis de las piezas y el embalaje.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I26.png"/>
 </p>
 
@@ -260,10 +264,10 @@ Entre los **tratamientos físicos** más destacados podemos encontrar:
 Actualmente este proceso se lleva a cabo principalmente en telares multihilo, mediante el cual se corta un bloque de piedra para convertirlo en  tablas, o también mediante la utilización de máquinas equipadas con discos diamantados (cortabloques) para producción de bandas, baldosas o plaquetas de piedra.
 Este acabado es casi un paso obligatorio dentro de cualquier línea de producción aplicándose a mármoles, granitos, calizas y areniscas. Con este acabado se consigue una superficie plana, rugosa y sin brillo.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I27.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://granitoscabaleiro.com/acabados/">Fuente</a>
 </p>
 
@@ -271,10 +275,10 @@ Este acabado es casi un paso obligatorio dentro de cualquier línea de producci�
 
 Consiste en el alisado y pulido de la superficie de la piedra mediante abrasión, utilizando muelas abrasivas cada vez más finas, pero sin llegar a obtener brillo. El resultado es una superficie lisa, mate y suave al tacto, que resalta el aspecto natural y rústico del material, siendo muy agradable visualmente y al tacto. Su uso está recomendado para pavimentos y revestimientos de interior. 
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I28.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://gramablack.com/acabado-apomazado/">Fuente</a>
 </p>
 
@@ -282,10 +286,10 @@ Consiste en el alisado y pulido de la superficie de la piedra mediante abrasión
 
 Mediante abrasivos de grano progresivamente más fino, se obtiene una superficie completamente lisa y brillante. Este acabado realza el color y la textura de la piedra, y disminuye la porosidad superficial, facilitando la limpieza y el mantenimiento, proporcionando una mayor resistencia al ataque de agentes externos. Su uso está más recomendado a pavimentos y revestimientos de interior. No es compatible con pavimentos que estén a la intemperie por su alta resbaladicidad. 
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I29.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://mapulim.com/como-pulir-piedras-con-una-pulidora-con-agua/?v=12470fe406d4">Fuente</a>
 </p>
 
@@ -293,10 +297,10 @@ Mediante abrasivos de grano progresivamente más fino, se obtiene una superficie
 
 Se logra golpeando la piedra con una herramienta llamada bujarda (martillo con puntas o pequeños dientes piramidales), generando pequeños cráteres uniformes. Aunque se puede realizar de forma manual, hoy en día se utilizan martillos neumáticos que se pueden desplazar de forma manual o de forma automática. El resultado es una textura rugosa, de aspecto rústico y propiedades antideslizantes, ideal para exteriores y zonas húmedas. Al igual que el acabado flameado, no se recomienda para pavimentos interiores por su dificultad para su mantenimiento y limpieza.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I30.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://natureartproject.com/piedra-natural/">Fuente</a>
 </p>
 
@@ -304,20 +308,20 @@ Se logra golpeando la piedra con una herramienta llamada bujarda (martillo con p
 
 Se realiza mediante la aplicación de golpes con una pica, un puntero o herramienta similar sobre la superficie de la piedra, sobre la que se producen unas incisiones alargadas y paralelas en una misma dirección, creando marcas lineales o punteadas. Suele ser un trabajo manual, aunque se puede efectuar con herramienta mecánica. El acabado es rugoso, con relieves marcados y aspecto rústico, utilizado para resaltar la textura natural y aumentar la resistencia al deslizamiento. Su uso es destacado para piedra de sillería en fachadas o incluso para pavimentos exteriores de aspecto rústico.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I31.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="http://tecnicagranito.com/material.php?m=2&acabado=1">Fuente</a>
 </p>
 
 6. **Escafilado**
 Consiste en fracturar la piedra manualmente con herramientas como cinceles, punteros o escafiladores, haciendo saltar lajas o esquirlas. El resultado es una superficie de aspecto muy natural, rústico e irregular, con mayor relieve y una textura similar al corte natural, pero más definida.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I32.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://akpedras.com.br/es/produtos/basalto-escafilado/">Fuente</a>
 </p>
 
@@ -325,10 +329,10 @@ Consiste en fracturar la piedra manualmente con herramientas como cinceles, punt
 
 Se aplica una llama a alta temperatura sobre la piedra (generalmente granito), provocando una expansión térmica brusca que desprende pequeñas partículas. Normalmente el proceso se realiza de forma automatizada en cámaras especiales cuyo componente principal es un soplete móvil de oxipropano que lanza una llama a temperaturas de unos 2500ºC. El resultado es una superficie rugosa, vitrificada y antideslizante, adecuada para exteriores y zonas de tránsito. No se recomienda para interiores ya que por su rugosidad no se favorece su limpieza y mantenimiento. 
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I33.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://granitoscabaleiro.com/acabados/">Fuente</a>
 </p>
 
@@ -336,10 +340,10 @@ Se aplica una llama a alta temperatura sobre la piedra (generalmente granito), p
 
 Consiste en proyectar arena de sílice o corindón, un material abrasivo impulsado a alta velocidad y con presión variable por aire sobre la piedra. El arenado limpia la superficie y genera una textura mate, fina y ligeramente rugosa, con orificios más pequeños que con el abujardado, resaltando el color natural y mejorando la adherencia para posteriores tratamientos o aplicaciones. La profundidad de los orificios puede variar según la presión de aire ejercida y la granulometría proyectada. Se recomienda tanto para interior como para exterior, aunque no está especialmente indicado para pavimentos interiores por su rugosidad.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I34.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://www.granisa.com/acabados/arenado-o-granallado/">Fuente</a>
 </p>
 
@@ -355,10 +359,10 @@ Proceso similar al arenado, pero en este caso se proyectan abrasivos metálicos 
 
 Busca reproducir el desgaste natural que el paso del tiempo y los agentes ambientales provocan en la piedra. Se puede lograr por medios mecánicos (cepillos abrasivos que de forma rotatoria generan ondulaciones y relieves imitando la erosión natural), dejando en superficie las partes más duras o los fósiles. El resultado es una textura sedosa, con relieves suaves y aspecto antiguo. Su uso más común es tanto para interiores como para exteriores, en este último caso se deberá comprobar que el grado de resbaladicidad es el adecuado.
 
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_2/T02-I35.png"/>
 </p>
-<p align="center">
+<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   <a href="https://natureartproject.com/acabados-piedra-natural/">Fuente</a>
 </p>
 

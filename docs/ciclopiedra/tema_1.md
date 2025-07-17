@@ -28,11 +28,11 @@ En el caso de un bloque bruto regular, el tamaño neto coincidirá con el tamañ
 - **Bloque comercial:** es aquella masa de piedra cuyas dimensiones se aproximan a las dimensiones estándares de un bloque. Es el que resulta de reducir en 5 cm la longitud de cada dimensión del bloque neto. 
 Para mejor ejemplificación, se adjunta la siguiente figura
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/T01-I01.png"/>
 </p>
 	
- <p align="center"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>Libro: Foto 1. Fuente: Libro UF0477: Recepción y almacenamiento del bloque de piedra natural. Amador
+ <p align="center" class="figure"  style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center' }}>Libro: Foto 1. Fuente: Libro UF0477: Recepción y almacenamiento del bloque de piedra natural. Amador
 Ordoñez Puime</p>
 
 
@@ -43,24 +43,23 @@ La clasificación de la piedra natural está basada principalmente en función d
 - **Rocas ígneas:** son las formadas por el **enfriamiento y la solidificación del magma**. Generalmente son extremadamente duras, por lo que su trabajabilidad requiere de equipos muy robustos. Hoy en día se utilizan herramientas con elementos diamantados o discos con abrasivos duros como el corindón. Este tipo de piedra se suele aplicar principalmente en **fachadas, pavimentos u ornamentación**.
 Como ejemplo están el **granito, la pumita, la diorita o la obsidiana**.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/T01-I02.png"/>
 </p>
 	
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}> 
 Foto 2. Rocas Ígneas. Fuente: https://www.diferenciador.com/tipos-de-rocas/
 </p>
-
 
 
 - **Rocas metamórficas:** este tipo de roca se ha formado **a partir de otros tipos de rocas bajo presión o calor**. Son más trabajables que las ígneas y se suelen utilizar en aplicaciones decorativas debido a su apariencia atractiva. Como aplicaciones se pueden encontrar principalmente en **revestimientos interiores y esculturas**.
 Como ejemplo están el **mármol, la pizarra, la cuarcita o los esquistos**.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1//T01-I03.png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 3. Rocas metamórficas. Fuente: https://www.diferenciador.com/tipos-de-rocas/
 </p>
 
@@ -68,11 +67,11 @@ Como ejemplo están el **mármol, la pizarra, la cuarcita o los esquistos**.
 - **Rocas sedimentarias:** estas rocas son las formadas por la **acumulación de sedimentos**. Tienen una porosidad mayor que los tipos anteriores con una resistencia intermedia, dependiendo del tipo de cemento del que se componga, será mayor o menor su resistencia. Como aplicaciones más comunes de este tipo de roca están los **pavimentos exteriores o los muros de contención**.
 Como ejemplo están la **caliza, la arenisca, el carbón o el yeso**.
  
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1//T01-I04.png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 4. Rocas sedimentarias. Fuente: https://www.diferenciador.com/tipos-de-rocas/
 </p>
 
@@ -122,43 +121,43 @@ Entre las explotaciones a cielo abierto destacan:
 
 1. **Canteras en foso sobre terrenos llanos**, que pueden funcionar con extracción por grúas (totalmente confinadas y con acceso mediante escalas) o mediante rampas de acceso construidas con estériles, siendo estas últimas las más habituales por su versatilidad.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 5.jpg"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 5. Fuente: Por btr - Trabajo propio, CC BY-SA 2.5,
 https://commons.wikimedia.org/w/index.php?curid=475395
  </p>
  
 2. **Canteras en ladera sobre terrenos en pendiente**, ubicadas en terrenos inclinados, donde la extracción puede comenzar desde los niveles inferiores o superiores, adaptando la altura y número de bancos según el avance. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 6.jpg"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 6. Fuente Propia
  </p>
 
 3.	**Canteras de nivelación en terrenos montañosos**, situadas en la cima de cerros, donde se iguala el terreno mediante la extracción y el relleno de vaguadas con estériles. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 7.jpg"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 7. Fuente: https://pixabay.com/es/photos/cantera-monta%C3%B1a-tierra-ingenieria-443255/
  </p>
 
 Por otro lado, las **canteras subterráneas** emplean el método de cámaras y pilares, iniciando la explotación desde el exterior y profundizando mediante galerías, dejando pilares para la estabilidad.
 Este tipo de explotación responde a razones económicas, medioambientales y climatológicas, y está en aumento en lugares como Carrara, Italia, donde se aprovechan antiguas infraestructuras para el acceso. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 8.png"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 8. Fuente: https://subterranologie.com/les-transports-en-carriere-souterraine/
  </p>
 
@@ -202,10 +201,10 @@ El proceso de actuación es el siguiente:
 - A continuación, se procede a **fragmentar cada rebanada vertical**, en forma descendiente, en pastillones (o bloques grandes) que se dejan caer sobre un colchón de escombros finos, denominado “cama” para evitar que la piedra se dañe lo menos posible.
 - Cada **pastillón se sigue subdividiendo** de forma progresiva hasta alcanzar el tamaño aproximado de los bloques comerciales.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 9.png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 9. Fuente propia
 </p>
 
@@ -223,10 +222,10 @@ Existen **tres tipologías de bancadas**:
     - **Gran bloque**: Sus tres dimensiones son del mismo orden, variando entre los 3 y los 12 m. Utilizado en calizas compactas
     - **Bancada larga**: en yacimientos sedimentarios, destaca la longitud, frente a las otras dos dimensiones.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 10 .png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 10. Fuente propia
 </p>
 
@@ -236,10 +235,10 @@ Este tipo de bancos se aplica a rocas masivas con pocas fracturas como sería un
 Es un sistema más flexible y versátil a la hora de poder cambiar dirección de corte y elimina pasos intermedios de fragmentación. 
 Además, es un sistema más seguro en el que existe un menor riesgo de tener accidentes por desprendimientos y posibles caídas. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 11.png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 11. Fuente propia
 </p>
 
@@ -293,10 +292,10 @@ El ciclo clásico comprende los siguientes pasos:
 Se aísla un gran bloque de la masa principal de roca, utilizando tecnologías como el hilo diamantado, perforación, voladuras controladas, etc, según el tipo de piedra y la morfología del yacimiento. 
 El bloque primario suele tener forma de paralelepípedo y dimensiones conformes con la tecnología de corte a utilizar.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 12.png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 12. Fuente propia
 </p>
 
@@ -304,16 +303,16 @@ Foto 12. Fuente propia
 Durante un conjunto de etapas sucesivas, el bloque inicial se fragmenta en otros más pequeños mediante cortes sucesivos, hasta obtener bloques de dimensiones tales que faciliten la labor de los equipos de manipulación, carga y transporte para llegar al escuadrado final.
 Para ese proceso se emplean herramientas como perforadoras, cuñas y en ocasiones pequeñas voladuras.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 13.png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 13. Fuente propia
 </p>
 
 **3º Obtención de bloques comerciales**
 Los bloques se ajustan a las dimensiones requeridas por la industria de transformación dentro de la gama de tamaños comerciales. Se pueden encontrar los siguientes tamaños:
-<table align="center">
+<table align="center" class="figure">
   <tr><td>Longitud</td><td>de 1,90 m a 3,30 m</td></tr>
   <tr><td>Anchura</td><td>de 1,00 m a 2,00 m</td></tr>
   <tr><td>Altura</td><td>de 1,80 m a 2,00 m</td></tr>
@@ -321,10 +320,10 @@ Los bloques se ajustan a las dimensiones requeridas por la industria de transfor
 
 Estos tamaños permiten una manipulación eficiente, cumpliendo con los estándares de mercado.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 14.png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 14. Fuente propia
 </p>
 
@@ -333,10 +332,10 @@ Foto 14. Fuente propia
 Finalmente, los bloques comerciales se perfilan y escuadran para obtener formas homogéneas con sus caras planas y regulares, eliminando irregularidades y optimizando el aprovechamiento del material.
 Este proceso facilita el posterior corte y acabado en la fábrica de procesado.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 15 .png"/>
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 15. Fuente propia
 </p>
 
@@ -371,19 +370,19 @@ Una vez se han tenido en cuenta estas actuaciones, se procede a realizar los sig
 Como paso previo al replanteo, se realiza una perforación de levante con sonda. Se trata de una perforación en sentido horizontal, que marcará la línea de corte primario del pastillón, con una sonda de 80mm y una profundidad de 10 a 20 metros según la estrategia de explotación y las características de la empresa.
 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 16.jpg"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 16. Fuente propia
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 17 .png"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 17. Fuente propia
 </p>
 
@@ -392,31 +391,31 @@ Tras la perforación con la sonda en sentido horizontal, se procede a sacar un p
 Se coloca una barrena larga en el orificio de la sonda, dejando aproximadamente 1 m sobresaliendo del mismo.
 Desde la parte superior de la bancada, se baja un cordel con un peso en su extremo. Este buscará la perpendicularidad con la barrena. En el punto de coincidencia, se marca un trazo de referencia. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 18 .png"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 18. Fuente propia
 </p>
 
 - **Desalabeado**
 En la parte superior de la bancada, se coloca otra barrena larga o cualquier elemento rígido y recto sobre el trazo del plomo para establecer una línea recta de referencia. Esta nos servirá para poder desalabear con la barrena del orificio de la sonda en la parte inferior.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 19 .png"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 19. Fuente propia
 </p>
 
 Con el ojo dominante, se alinea visualmente la barrena inferior con la superior y sin mover esta del trazo del plomo se va moviendo hasta alinearla y ajustarla logrando la coincidencia perfecta. Esto genera una directriz de corte.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 20 .png"/>
 </p>
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 20. Fuente propia
 </p>
 
@@ -425,72 +424,72 @@ Utilizando como referencia la alineación previamente obtenida con las barrenas,
 - **Escuadrado**
 Sobre la directriz previamente establecida, se mide la longitud deseada para el pastillón, o también denominada profundidad de corte (ej: 10m). 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 21.jpg"/>
 </p>
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 21. Fuente propia
 </p>
 
 
 Con una escuadra de gran formato, se traza una línea perpendicular y se marca un trazo definitivo al final de esta perpendicular.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 22 .png"/>
 </p>
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 22. Fuente propia
 </p>
 
 Para tener el volcado controlado del pastillón, desde el vertice que genera el escuadrado, se cierra el ángulo 2 cm por cada metro lineal. 
 Esta modificación facilitará al pastillón no quedarse atascado creando un mínimo cono de liberación reduciendo la fricción durante el volcado y previniendo atascamientos por presión lateral del macizo. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 23 .png"/>
 </p>
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 23. Fuente propia
 </p>
 
 - **Generación del plano de corte de NORTE:**
 Desde el trazo del final de la perpendicularidad bajamos un cordel para buscar el plomo y generar un punto para poder realizar una perforación horizontal con la sonda y encontrarse con la primera perforación horizontal
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 24 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 24. Fuente propia
 </p>
 - **Perforación vertical con sonda:** 
 Se ejecuta en el vértice formado por la intersección de los planos de escuadrado una perforación con la sonda con el objetivo de crear una conexión precisa con las perforaciones horizontales existentes en la base de la bancada. Esto Permitirá el paso del hilo diamantado para el corte completo del pastillón.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 25 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 25. Fuente: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-rocas-ornamentales/ y fuente propia
 </p>
 
 Cuando no se produce el encuentro entre perforaciones se introduce una sonda de inspección en ambas perforaciones con un localizador electromagnético para determinar el punto exacto de máxima aproximación, el ángulo y dirección de desviación y la profundidad del problema para garantizar ese encuentro.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 26 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 26. Fuente propia
 </p>
 
 
 Como perforación secundaria, se realizan perforaciones paralelas espaciadas cada 1.8 / 2 metros, que se encontrarán posteriormente con las perforaciones perpendiculares que se realizaron en la parte inferior de la bancada. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 27 .jpg"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 27. Fuente propia
 </p>
 
@@ -505,21 +504,21 @@ El proceso se repite, en el otro orificio perpendicular de la base de la bancada
 Esto se hace par conseguir enhebrar el hilo diamantado y así poder llevar a cabo tanto el corte de plomo como el de norte.
 
 <pre>        **Corte de Norte**                                          **Corte de Plomo**</pre>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 28 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 28. Fuente:https://siaia.apambiente.pt/AIADOC/AIA3303/aia_2_2019_p%20salgueirinha_parecer%20final_ca201991310202.pdf
 </p>
 
 Se ata firmemente el extremo del hilo diamantado al extremo del cordel guía. Es crucial verificar el sentido de corte del hilo para evitar daños cuando comience a operar, debido a que el hilo diamantado tiene un sentido preferente de corte.
 Finalmente, se tira del cordel guía para hacer pasar el hilo diamantado a través de las perforaciones hasta que este salga por el otro extremo.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 29 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 29. Fuente propia
 </p>
 
@@ -527,29 +526,29 @@ Foto 29. Fuente propia
 Antes de cerrar el hilo diamantado en bucle con un empalme metálico a presión, **es necesario aplicar una torsión específica de 1.5 vueltas por metro en cada extremo del hilo diamantado**. Este giro permite que, durante el corte, el hilo rote sobre sí mismo de manera uniforme. Así se evita el desgaste desigual de las perlas diamantadas (que afectaría solo a una cara) y se garantiza una distribución equilibrada del desgaste a lo largo de todas las perlas.
 Se instala el hilo diamantado en la máquina de corte pasándolo por las diferentes poleas guía y volantes de tensión, según el diseño del equipo. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 30 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 30. Fuente propia
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 31 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 31. Fuente propia
 </p>
 
 Para el **corte de levante**, sería necesario enhebrado del hilo en esta dirección.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 32 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 32. Fuente propia
 </p>
 - **Proceso de corte con hilo diamantado**
@@ -558,59 +557,59 @@ El **sentido de giro del motor**.
     - **La tensión del hilo diamantado** (inicialmente entre 18-25 m/s para todos los tipos de granito), que se incrementa progresivamente durante el corte hasta alcanzar 65-70 m/s en el caso del granito silvestre. 
 Para granitos más duros como el Gris Mondariz o el Rosa Porriño, la velocidad máxima se reduce a 31-32 m/s para optimizar el corte.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 33 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 33. Fuente propia
 </p>
 
     - Es fundamental **activar el caudal de agua** suficiente antes de iniciar el corte para garantizar la refrigeración adecuada del hilo. 
     - El **consumo eléctrico** oscila entre 35-40 amperios en el arranque y alcanza los 60-70 amperios en máxima producción, tanto para el motor principal como para el de tiro/avance. Estos sistemas se autorregulan automáticamente en función de la resistencia que ofrece la piedra durante el proceso de corte. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 34 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 34. Fuente propia
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 35 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 35. Fuente propia
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 36 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 36. Fuente propia
 </p>
 
 Cortes vertical y horizontal con hilo diamantado.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 37 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 37. Fuente
 </p>
 
 - **VOLCADO DEL PASTILLÓN**
 Una vez realizado el corte en las tres caras del pastillón con hilo diamantado, el siguiente paso sería volcarlo para poder proceder a su subdivisión. Para ello, lo primero sería preparar una cama de arena (aunque realmente se trata de material estéril, con predominio de finos, sobrante de la cantera). Esta protección para la caída evitará fracturas en el pastillón. 
 Una vez se dispone del lecho para amortiguar la caída, se debe ejercer fuerza en el pastillón para provocar su vuelco.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 38 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 38. Fuente propia
 </p>
 Existen distintos mecanismos para ello:
@@ -626,52 +625,52 @@ Se indican a continuación lo más utilizados en las canteras gallegas:
     3.	A medida que el pastillón se inclina, se colocan fragmentos de piedra como soporte para evitar que la ranura se cierre por retroceso. 
     4.	Una vez alcanzada la separación suficiente, se prepara el volcado utilizando una pala de gran tonelaje con un implemento hidráulico.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 39 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 39. Fuente propia
 </p>
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 40 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 40. Fuente propia
 </p>
 
 - **Asistencia con maquinaria pesada y empujador hidráulico**
     1. Antes del volcado definitivo, una pala de gran tonelaje crea una cama de amortiguación en la base de la bancada utilizando material estéril. Esta estructura es fundamental para absorber el impacto y distribuir la carga, evitando daños al pastillón.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 41 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 41. Fuente propia
 </p>
     2. Otra pala, posicionada en la parte superior de la bancada, emplea un implemento hidráulico de empuje para aplicar fuerza gradual sobre el pastillón.  El diente del implemento se encaja en la ranura creada por las bolsas expansivas, facilitando el volcado asistido. Mediante el empuje progresivo de la pala superior, el pastillón comienza a inclinarse. 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 42 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 42. Fuente propia
 </p>
     3.	Al alcanzar un ángulo de 10°–15°, el bloque pierde estabilidad y su propio peso lo hace caer de manera controlada sobre la cama de amortiguación.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 43 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 43. Fuente https://www.youtube.com/watch?v=kxen57Hrmks&t=331s
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 43.1 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 43.1. Fuente https://www.youtube.com/watch?v=kxen57Hrmks&t=331s
 </p>
 
@@ -680,11 +679,11 @@ Foto 43.1. Fuente https://www.youtube.com/watch?v=kxen57Hrmks&t=331s
 - **Proceso de marcado**
 Una vez volcado el pastillón, se asienta debidamente y se procede al marcado para dividirlo en bloques y semibloques comerciales. Esta es una labor importante, ya que un trabajador con experiencia puede aprovechar mucho mejor los pastillones, disminuyendo al máximo los desperdicios.
 Las medidas que se suelen buscar pueden variar en función del estado del material, la densidad (peso), el aprovechamiento del pastillón…, pero son **medidas brutas habituales: 350x200x180 (en cm.)** Se busca que los bloque resultantes sean aptos para un cómodo transporte y el posterior procesamiento industrial.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 44 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 44. Fuente propia
 </p>
 
@@ -697,21 +696,21 @@ El espaciamiento de los barrenos variará en función del plano de corte:
     - Para el norte, no se puede perforar hasta el fondo, ya que la salida de la barrena provocaría un desconchado importante que afectaría la apariencia del bloque comercial en el perímetro inferior. Por ello, la profundidad de perforación debe rondar el 80% de la altura del bloque, con una distancia entre barrenos de 25 cm.
     - Cuando el pastillón está tumbado, ya no existe un plano de plomo, dado que uno de esos planos queda apoyado en la cama de amortiguado, mientras que el otro sirve como superficie para el trazado del escuadrado de los bloques comerciales.
 	  
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 45 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 45. Fuente propia
 </p>
 - **Corte de bloques (subdivisión con batería de martillos)**
 En esta fase, la rotura entre los barrenos se realiza mediante el empleo de cuñas, accionadas manual o hidráulicamente.
 Antiguamente se utilizaban sistemas neumáticos, actualmente sustituidos por los hidráulicos, con una operación centralizada de baterías de martillos que permiten el control de varios en paralelo por un solo operador de equipo y con los brazos automatizados obteniendo una mayor productividad, menor consumo energético, y un menor impacto ambiental derivado de los ruidos y el polvo.
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 46 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 46. Fuente propia y https://oa.upm.es/21840/1/L3_DISE_ROCA_ORNAMENTAL_071120_2.pdf
 </p>
 
@@ -721,11 +720,11 @@ La calidad del acabado en las caras del bloque final depende del correcto alinea
 Este escuadrado se obtiene mediante perforación y acuñado (empleo de cuñas) y sin utilización alguna de explosivo, consiguiendo una profundidad variable de los barrenos en función de la cara en la que se actúe y una gran precisión en su alineamiento para una perfecto escuadre.
 
 Bloques escuadrados
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 47 .jpg"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 47. Fuente propia
 </p>
 
@@ -744,11 +743,11 @@ A continuación, se describen de forma muy genérica los principales equipos de 
 **Perforadoras hidráulicas o neumáticas:**
 Las perforadoras hidráulicas y neumáticas son equipos esenciales en los trabajos de cantera de piedra natural, especialmente en la fase de extracción y preparación de bloques. Ambas tecnologías se emplean para realizar perforaciones en la roca, que pueden destinarse a la inserción de explosivos (voladuras controladas), a la colocación de cuñas para la fragmentación controlada o como paso previo para el corte con hilo diamantado.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 48 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 48. Fuente propia y https://oa.upm.es/21840/1/L3_DISE_ROCA_ORNAMENTAL_071120_2.pdf
 </p>
 
@@ -761,11 +760,11 @@ El hilo diamantado es una de las tecnologías más avanzadas y extendidas en la 
 
 
 Imagen de rollos de hilo diamantado
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 49 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 49. Fuente: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-
 rocas-ornamentales/ y http://www.glsunshine.com/es/show_hilosdiamantados_54.html
 </p>
@@ -780,45 +779,45 @@ Con este tipo de máquinas se deberá tener muy en cuenta en nivelado de los ra�
 
 Máquinas de corte con hilo diamantado
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 50 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 50. Fuente propia y Herrera Herbet, J. (2017). Explotaciones de cantera de roca ornamental
 </p>
 
 
 Las máquinas de corte con hilo diamantado más modernas son máquinas autónomas sobre neumáticos que se pueden adaptar de forma más ágil a la posición adecuada al plano de corte.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 51 .jpg"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 51. Fuente propia
 </p>
 
 **Rozadoras de brazo**
 Con este sistema es necesario disponer de unas alturas de banco muy limitadas por el alcance del brazo cortador, y su uso está condicionado por la existencia y orientación de las discontinuidades naturales, así como por las exigencias en el tamaño de los bloques vendibles. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 52 .png"/>
 </p>
 
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
  (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
 La rozadora consta básicamente de un brazo accionado, móvil y orientable, sobre el que se desplaza una cadena provista de unas picas como elementos de corte y de desgaste. El sistema de accionamiento del brazo es del tipo electro-hidráulico con unas potencias entre 10 y 60 Kw, y todo el conjunto se desliza sobre carriles en la dirección del corte con velocidades de avance de 2 a 10 cm/mín. y con la posibilidad de desplazarse por pendientes máximas de 15º.
 El brazo es orientable para poder realizar los cortes verticales y horizontales, con una longitud variable entre 1,5 y 3 m. Sobre el perímetro del brazo se desplaza la cadena que arrastra las picas, de un material altamente resistente.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 53 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 53. Fuente: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-
 rocas-ornamentales/
 </p>
@@ -827,22 +826,22 @@ rocas-ornamentales/
 **Equipos de corte con disco.**
 Esta técnica de corte con discos diamantados o de metal duro, montados sobre carretón móvil, brazo articulado o equipos autoportantes, permite obtener bloques de excelente acabado directamente en la cantera, sin necesidad de etapas adicionales de escuadrado. Sin embargo, su principal limitación es la escasa profundidad de corte (40-60 cm), lo que restringe el tamaño de los bloques y exige un diseño muy preciso de los bancos y amplias plataformas de trabajo. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 54 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 54. Fuente: Juan Herrera Herbert (2018). Canteras de roca ornamental. técnicas y sistemas
 de extracción
 </p>
 
 Aunque es eficiente y de bajo consumo energético, su uso es más común en talleres de aserrado que en canteras, salvo en explotaciones de pizarra, mármol y caliza donde se adapta bien a la obtención de bloques de dimensiones específicas.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 55 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 55. Fuentes: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-rocas-ornamentales/ https://cofeseg.com/producto/maquina-de-doble-disco/
 </p>
 
@@ -853,11 +852,11 @@ El procedimiento consiste en perforar una serie de orificios alineados en la pie
 
 Este sistema se debe aplicar fundamentalmente sobre las rocas de mayor dureza y abrasividad, del tipo granítica. Esta maquinaria es utilizada tanto para realizar el corte primario como el secundario en los planchones de roca.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 56 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 56. Fuente propia
 Fichas de divulgación de buenas prácticas
 preventivas de puestos de trabajo vinculados a la
@@ -868,22 +867,22 @@ Comunidad Valenciana.
 
 En la siguiente ilustración se puede apreciar la secuencia del método Finlandés de rotura de bancada y posterior formación de bloques comerciales con este tipo de maquinaria.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 57 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 57. Fuente: Herrera Herbet, J. (2017). Explotaciones de cantera de roca ornamental
 </p>
 
 **Lanza	térmica, llama o soplete	(utilización muy esporádica, actualmente obsoleta).**
 El corte con lanza térmica se utiliza principalmente en rocas ígneas como granitos y dioritas con alto contenido en sílice, y es especialmente útil para realizar rozas iniciadoras en materiales con buena decrepitabilidad. Esta técnica aprovecha la capacidad de la roca para fracturarse en escamas debido al choque térmico generado por la diferencia de conductividad térmica entre sus minerales constituyentes. El sistema consiste en una lanza que combina combustible, oxidante y agua, generando ondas de choque térmico que, seguidas de un enfriamiento rápido, provocan la fractura y expulsión de los granos de la roca. Es fundamental que la roca tenga ciertas propiedades, como un tamaño de grano homogéneo y ausencia de materiales elásticos, para lograr un corte eficiente.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 58 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 58. Fuentes: https://eadic.com/blog/entrada/tecnicas-de-corte-de-rocas-en-canteras-de-rocas-ornamentales/
 y
 https://nociones-construccion.blogspot.com/p/extraccion-de-la-piedra.html
@@ -895,22 +894,22 @@ https://nociones-construccion.blogspot.com/p/extraccion-de-la-piedra.html
     - **Excavadoras sobre orugas:**
 Las excavadoras sobre orugas son esenciales para el movimiento de grandes bloques, la retirada de estériles y el acondicionamiento de los frentes de explotación. Su diseño robusto y su capacidad para trabajar en terrenos irregulares las hacen idóneas para el entorno de cantera. Además, pueden equiparse con implementos específicos, como martillos hidráulicos, cucharas o sistemas de empuje hidráulico (bench pusher), aumentando su versatilidad y productividad.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 59 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 59. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
 - **Cargadores frontales:**
 Los cargadores frontales se utilizan principalmente para cargar los bloques extraídos y transportarlos hasta las zonas de acopio o las plataformas de transporte interno. Su gran capacidad de carga y maniobrabilidad permiten optimizar los tiempos de ciclo y reducir los riesgos asociados a a manipulación manual de bloques. Pueden operar con pinzas o cucharas reforzadas, adaptadas al peso y tamaño de los bloques. 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 60 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 60. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
@@ -919,11 +918,11 @@ Foto 60. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas prevent
     - **Camiones rígidos o dúmperes articulados:**
 El transporte interno de bloques y estériles dentro de la cantera se realiza mediante camiones rígidos o dúmperes articulados, diseñados para soportar grandes cargas y operar en terrenos accidentados. Estos vehículos permiten trasladar el material desde el frente de extracción hasta la planta de procesamiento o las zonas de acopio, garantizando la continuidad del flujo de producción y minimizando los tiempos de espera.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 61 .png"/>
 </p>
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 61. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
@@ -1020,15 +1019,15 @@ A continuación, se exponen de forma general los principales riesgos y las medid
 **EPI’s a utilizar en los diferentes trabajos en la Cantera**
 A continuación, se muestra una tabla resumen con los pictogramas, la parte del cuerpo que protege, el tipo de EPI de que se trata y la certificación necesaria de los elementos de protección individual a utilizar por los operarios para realizar los diferentes trabajos de explotación en una cantera de piedra natural.
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 62 .png"/>
 </p>
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 63 .png"/>
 </p>
 	
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
 Foto 62 y 63. Fuente: (INVASSAT). Fichas de divulgación de buenas prácticas preventivas de puestos de trabajo vinculados a la extracción de rocas ornamentales en la Comunidad Valenciana.
 </p>
 
@@ -1079,12 +1078,12 @@ El personal técnico realiza una clasificación visual de los bloques en cantera
 El rol del consultor de piedra natural es fundamental en el control de calidad, especialmente en proyectos de alta exigencia estética o con grandes volúmenes de material. Este profesional, con amplia experiencia técnica en el sector, actúa como un asesor imparcial que acompaña al cliente, al fabricante y a la cantera durante todo el proceso. Su función principal es definir y validar los criterios de calidad específicos para cada proyecto, asegurando que el material extraído y suministrado cumpla con las expectativas estéticas, físicas y mecánicas establecidas
 
 
-<p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+<p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
     <img src="/materiales/img/Imaxes_tema_1/Foto 64 .jpg"/>
 </p>
 
 
- <p align="center" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666' }}>
+ <p align="center" class="figure" style={{ fontStyle: 'italic', fontSize: '0.9em', color: '#666', textAlign:'center'}}>
   Foto 64. Fuente: https://alborainternational.com/es/control-calidad-marmol-cantera-fabrica/
 </p>
 
